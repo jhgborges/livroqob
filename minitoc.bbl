@@ -1,0 +1,906 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{IUPAC+A00496+2019}{article}{}
+      \list{institution}{2}{%
+        {International Union of Pure}%
+        {Applied Chemistry (IUPAC)}%
+      }
+      \field{sortinit}{a}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labeltitlesource}{title}
+      \field{edition}{3.0.1}
+      \field{title}{atomic mass}
+      \field{year}{2019}
+      \verb{doi}
+      \verb doi:10.1351/goldbook.A00496
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1351/goldbook.A00496
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1351/goldbook.A00496
+      \endverb
+    \endentry
+    \entry{solubilidade}{online}{}
+      \name{author}{1}{}{%
+        {{hash=ace50fbdd26f468fba9ac744b81a42f6}{%
+           family={Cláudia\bibnamedelimb Rocha\bibnamedelima Martins},
+           familyi={C\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={Wilson\bibnamedelimb Araújo\bibnamedelimb Lopes\bibnamedelimb e\bibnamedelimb Jailson\bibnamedelimb Bittencourt\bibnamedelimb de\bibnamedelima Andrade},
+           giveni={W\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \strng{fullhash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \strng{bibnamehash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \strng{authorbibnamehash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \strng{authornamehash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \strng{authorfullhash}{ace50fbdd26f468fba9ac744b81a42f6}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Solubilidade das substâncias orgânicas}
+      \verb{urlraw}
+      \verb https://www.scielo.br/j/qn/a/9q5g6jWWTM987mDqVFjnSDp/?lang=pt
+      \endverb
+      \verb{url}
+      \verb https://www.scielo.br/j/qn/a/9q5g6jWWTM987mDqVFjnSDp/?lang=pt
+      \endverb
+    \endentry
+    \entry{HR}{online}{}
+      \name{author}{1}{}{%
+        {{hash=12714e7ca4625f6a6792af28da6e0b9c}{%
+           family={Croswell},
+           familyi={C\bibinitperiod},
+           given={Ken},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \strng{fullhash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \strng{bibnamehash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \strng{authorbibnamehash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \strng{authornamehash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \strng{authorfullhash}{12714e7ca4625f6a6792af28da6e0b9c}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Periodic Table of the Cosmos: 100 Years of the Hertzsprung-Russell Diagram}
+      \verb{urlraw}
+      \verb https://www.scientificamerican.com/article/the-periodic-table-of-the-cosmos/
+      \endverb
+      \verb{url}
+      \verb https://www.scientificamerican.com/article/the-periodic-table-of-the-cosmos/
+      \endverb
+      \keyw{Astronomy,universe,stars}
+    \endentry
+    \entry{furukawa114nakayama}{article}{}
+      \name{author}{6}{}{%
+        {{hash=73704e4b6f7075a3e5818574f11c0ad4}{%
+           family={Furukawa},
+           familyi={F\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=fa92688ea15fac3731b646967b3d3c05}{%
+           family={Fujita},
+           familyi={F\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=49b6c1a7c7af15ff42c92dcb7808c654}{%
+           family={Shimabukuro},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=73a6c5e14d41d73c2ff4d63e73cb4323}{%
+           family={Iwaki},
+           familyi={I\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=3154a7a9f12588aa523e75262c93179d}{%
+           family={Yamada},
+           familyi={Y\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=b8b7075f65f38a9ef77ca01ecd9bc155}{%
+           family={Nakajima},
+           familyi={N\bibinitperiod},
+           given={Y},
+           giveni={Y\bibinitperiod}}}%
+      }
+      \strng{namehash}{935137ddd50afb03500f42ffcca931bc}
+      \strng{fullhash}{bc111f4e3469234457f0aadf9c5d1afd}
+      \strng{bibnamehash}{935137ddd50afb03500f42ffcca931bc}
+      \strng{authorbibnamehash}{935137ddd50afb03500f42ffcca931bc}
+      \strng{authornamehash}{935137ddd50afb03500f42ffcca931bc}
+      \strng{authorfullhash}{bc111f4e3469234457f0aadf9c5d1afd}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Clinical Investigation}
+      \field{number}{12}
+      \field{title}{Nakayama, 0., Makishima, M., Matsuda, M. and Shimomura, I. 2004. Increased oxidative stress in obesity and its impact on metabolic syndrome}
+      \field{volume}{114}
+      \field{pages}{1752}
+      \range{pages}{1}
+    \endentry
+    \entry{aufbau}{article}{}
+      \name{author}{1}{}{%
+        {{hash=c17667e8c10ddc9eaf25bfe44918c0d6}{%
+           family={Garofalo},
+           familyi={G\bibinitperiod},
+           given={Anthony},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \strng{fullhash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \strng{bibnamehash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \strng{authorbibnamehash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \strng{authornamehash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \strng{authorfullhash}{c17667e8c10ddc9eaf25bfe44918c0d6}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Chemical Education}
+      \field{number}{6}
+      \field{title}{Housing Electrons: Relating Quantum Numbers, Energy Levels, and Electron Configuration}
+      \field{volume}{74}
+      \field{year}{1997}
+      \field{pages}{709}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1021/ed074p709
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ed074p709
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ed074p709
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ed074p709
+      \endverb
+    \endentry
+    \entry{griffiths2020introduction}{book}{}
+      \name{author}{1}{}{%
+        {{hash=42e8ffd37323285bb1fdb7f05e3bd4d3}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \strng{fullhash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \strng{bibnamehash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \strng{authorbibnamehash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \strng{authornamehash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \strng{authorfullhash}{42e8ffd37323285bb1fdb7f05e3bd4d3}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783527834631}
+      \field{title}{Introduction to Elementary Particles}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://shorturl.at/pwDKW
+      \endverb
+      \verb{url}
+      \verb https://shorturl.at/pwDKW
+      \endverb
+    \endentry
+    \entry{avogadro}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d1e2c5ca791708ad34a984f8cd6a21bf}{%
+           family={Hanwell},
+           familyi={H\bibinitperiod},
+           given={M.\bibnamedelimi D.\bibnamedelimi et.\bibnamedelimi al.},
+           giveni={M\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod}}}%
+      }
+      \strng{namehash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \strng{fullhash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \strng{bibnamehash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \strng{authorbibnamehash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \strng{authornamehash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \strng{authorfullhash}{d1e2c5ca791708ad34a984f8cd6a21bf}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Cheminformatics}
+      \field{number}{17}
+      \field{title}{Avogadro: An advanced semantic chemical editor, visualization, and analysis platform}
+      \field{volume}{4}
+    \endentry
+    \entry{paclitaxel}{online}{}
+      \name{author}{1}{}{%
+        {{hash=35fb4010a47411426a19ebc4d358d79c}{%
+           family={Institute},
+           familyi={I\bibinitperiod},
+           given={National\bibnamedelima Cancer},
+           giveni={N\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{35fb4010a47411426a19ebc4d358d79c}
+      \strng{fullhash}{35fb4010a47411426a19ebc4d358d79c}
+      \strng{bibnamehash}{35fb4010a47411426a19ebc4d358d79c}
+      \strng{authorbibnamehash}{35fb4010a47411426a19ebc4d358d79c}
+      \strng{authornamehash}{35fb4010a47411426a19ebc4d358d79c}
+      \strng{authorfullhash}{35fb4010a47411426a19ebc4d358d79c}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{A Story of Discovery: Natural Compound Helps Treat Breast and Ovarian Cancers}
+      \verb{urlraw}
+      \verb https://www.cancer.gov/research/progress/discovery/taxol
+      \endverb
+      \verb{url}
+      \verb https://www.cancer.gov/research/progress/discovery/taxol
+      \endverb
+    \endentry
+    \entry{iupac2013}{book}{}
+      \name{author}{1}{}{%
+        {{hash=2cc465540a73611a839622354610877f}{%
+           family={IUPAC},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cambridge, UK}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{2cc465540a73611a839622354610877f}
+      \strng{fullhash}{2cc465540a73611a839622354610877f}
+      \strng{bibnamehash}{2cc465540a73611a839622354610877f}
+      \strng{authorbibnamehash}{2cc465540a73611a839622354610877f}
+      \strng{authornamehash}{2cc465540a73611a839622354610877f}
+      \strng{authorfullhash}{2cc465540a73611a839622354610877f}
+      \field{sortinit}{I}
+      \field{sortinithash}{8d291c51ee89b6cd86bf5379f0b151d8}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd}
+      \field{note}{ISBN-13: 978-0-85404-182-4}
+      \field{title}{Nomenclature of Organic Chemistry: IUPAC Recommendations and Preferred Names 2013}
+      \field{year}{2013}
+    \endentry
+    \entry{kumar2017quantum}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5c0a856c0a6403810f60ca5ce7d9d96a}{%
+           family={Kumar},
+           familyi={K\bibinitperiod},
+           given={Naresh},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4287e7143973d60396c97e3d46cacd85}{%
+           family={Goel},
+           familyi={G\bibinitperiod},
+           given={Nidhi},
+           giveni={N\bibinitperiod}}}%
+        {{hash=c8edf6dda9eee5b12019ff5b1221bb63}{%
+           family={Chand\bibnamedelima Yadav},
+           familyi={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           given={Tara},
+           giveni={T\bibinitperiod}}}%
+        {{hash=6039ee0ade49970a7459ec8884bbce22}{%
+           family={Pruthi},
+           familyi={P\bibinitperiod},
+           given={Vikas},
+           giveni={V\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{193262f126db6dd3b0559819b79c35ff}
+      \strng{fullhash}{e445e73a3a1a32d86f92e2209053ead4}
+      \strng{bibnamehash}{193262f126db6dd3b0559819b79c35ff}
+      \strng{authorbibnamehash}{193262f126db6dd3b0559819b79c35ff}
+      \strng{authornamehash}{193262f126db6dd3b0559819b79c35ff}
+      \strng{authorfullhash}{e445e73a3a1a32d86f92e2209053ead4}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Medicinal Chemistry Research}
+      \field{title}{Quantum chemical, ADMET and molecular docking studies of ferulic acid amide derivatives with a novel anticancer drug target}
+      \field{volume}{26}
+      \field{year}{2017}
+      \field{pages}{1822\bibrangedash 1834}
+      \range{pages}{13}
+    \endentry
+    \entry{Lennard-Jones_1931}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cd1bae3ba57f1d44ccd10f1f7a52f978}{%
+           family={Lennard-Jones},
+           familyi={L\bibinithyphendelim J\bibinitperiod},
+           given={J\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \strng{fullhash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \strng{bibnamehash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \strng{authorbibnamehash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \strng{authornamehash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \strng{authorfullhash}{cd1bae3ba57f1d44ccd10f1f7a52f978}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the Physical Society}
+      \field{month}{9}
+      \field{number}{5}
+      \field{title}{Cohesion}
+      \field{volume}{43}
+      \field{year}{1931}
+      \field{pages}{461}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/0959-5309/43/5/301
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/0959-5309/43/5/301
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/0959-5309/43/5/301
+      \endverb
+    \endentry
+    \entry{massimi2005pauli}{book}{}
+      \name{author}{1}{}{%
+        {{hash=341239114f0f4acfcfc7a020c3861661}{%
+           family={Massimi},
+           familyi={M\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{341239114f0f4acfcfc7a020c3861661}
+      \strng{fullhash}{341239114f0f4acfcfc7a020c3861661}
+      \strng{bibnamehash}{341239114f0f4acfcfc7a020c3861661}
+      \strng{authorbibnamehash}{341239114f0f4acfcfc7a020c3861661}
+      \strng{authornamehash}{341239114f0f4acfcfc7a020c3861661}
+      \strng{authorfullhash}{341239114f0f4acfcfc7a020c3861661}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781139445924}
+      \field{title}{Pauli's Exclusion Principle: The Origin and Validation of a Scientific Principle}
+      \field{year}{2005}
+      \verb{urlraw}
+      \verb https://books.google.com.br/books?id=YS91Gsbd13cC
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.br/books?id=YS91Gsbd13cC
+      \endverb
+    \endentry
+    \entry{Monticelli2013}{inbook}{}
+      \name{author}{2}{}{%
+        {{hash=b5ae263641ff93495fc2343e3f596a1c}{%
+           family={Monticelli},
+           familyi={M\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=abc3b49ac384d1f0b3e59c45ff6f8ee7}{%
+           family={Tieleman},
+           familyi={T\bibinitperiod},
+           given={D.\bibnamedelimi Peter},
+           giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=b5ae263641ff93495fc2343e3f596a1c}{%
+           family={Monticelli},
+           familyi={M\bibinitperiod},
+           given={Luca},
+           giveni={L\bibinitperiod}}}%
+        {{hash=2c854b477f4a449d4c5956cbd53d0149}{%
+           family={Salonen},
+           familyi={S\bibinitperiod},
+           given={Emppu},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Totowa, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Humana Press}%
+      }
+      \strng{namehash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{fullhash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{bibnamehash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{authorbibnamehash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{authornamehash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{authorfullhash}{5cd7c44a20256253758e782de9b833ff}
+      \strng{editorbibnamehash}{7f6609f9d8b1e2cb4d7164d968b083ee}
+      \strng{editornamehash}{7f6609f9d8b1e2cb4d7164d968b083ee}
+      \strng{editorfullhash}{7f6609f9d8b1e2cb4d7164d968b083ee}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In this chapter we review the basic features and the principles underlying molecular mechanics force fields commonly used in molecular modeling of biological macromolecules. We start by summarizing the historical background and then describe classical pairwise additive potential energy functions. We introduce the problem of the calculation of nonbonded interactions, of particular importance for charged macromolecules. Different parameterization philosophies are then presented, followed by a section on force field validation. We conclude with a brief overview on future perspectives for the development of classical force fields.}
+      \field{booktitle}{Biomolecular Simulations: Methods and Protocols}
+      \field{isbn}{978-1-62703-017-5}
+      \field{title}{Force Fields for Classical Molecular Dynamics}
+      \field{year}{2013}
+      \field{pages}{197\bibrangedash 213}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1007/978-1-62703-017-5_8
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1007/978-1-62703-017-5_8
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1007/978-1-62703-017-5_8
+      \endverb
+    \endentry
+    \entry{TA}{article}{}
+      \name{author}{3}{}{%
+        {{hash=ce5bcea5da8a7c58b026f3d1dd937c66}{%
+           family={Oberhummer},
+           familyi={O\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+        {{hash=3f77c1412fd1a0cd424d9392f302a1e5}{%
+           family={Csótó},
+           familyi={C\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8ca5e0a7d5a908e526f23cdbf0e72555}{%
+           family={Schlattl},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{5cc34a6c7f257a335209396ac19d599a}
+      \strng{fullhash}{5cc34a6c7f257a335209396ac19d599a}
+      \strng{bibnamehash}{5cc34a6c7f257a335209396ac19d599a}
+      \strng{authorbibnamehash}{5cc34a6c7f257a335209396ac19d599a}
+      \strng{authornamehash}{5cc34a6c7f257a335209396ac19d599a}
+      \strng{authorfullhash}{5cc34a6c7f257a335209396ac19d599a}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The bulk of the carbon in our universe is produced in the triple-alpha process in helium-burning red giant stars. We calculated the change of the triple-alpha reaction rate in a microscopic 12-nucleon model of the 12C nucleus and looked for the effects of minimal variations of the strengths of the underlying interactions. Stellar model calculations were performed with the alternative reaction rates. Here, we show that outside a narrow window of 0.5 and 4\% of the values of the strong and Coulomb forces, respectively, the stellar production of carbon or oxygen is reduced by factors of 30 to 1000.}
+      \field{journaltitle}{Science}
+      \field{number}{5476}
+      \field{title}{Stellar Production Rates of Carbon and Its Abundance in the Universe}
+      \field{volume}{289}
+      \field{year}{2000}
+      \field{pages}{88\bibrangedash 90}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1126/science.289.5476.88
+      \endverb
+      \verb{eprint}
+      \verb https://www.science.org/doi/pdf/10.1126/science.289.5476.88
+      \endverb
+      \verb{urlraw}
+      \verb https://www.science.org/doi/abs/10.1126/science.289.5476.88
+      \endverb
+      \verb{url}
+      \verb https://www.science.org/doi/abs/10.1126/science.289.5476.88
+      \endverb
+    \endentry
+    \entry{pauling}{article}{}
+      \name{author}{1}{}{%
+        {{hash=57002dec049d71166a4985e677fc4d28}{%
+           family={Pauling},
+           familyi={P\bibinitperiod},
+           given={Linus.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{fullhash}{57002dec049d71166a4985e677fc4d28}
+      \strng{bibnamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authorbibnamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authornamehash}{57002dec049d71166a4985e677fc4d28}
+      \strng{authorfullhash}{57002dec049d71166a4985e677fc4d28}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Chemical Society}
+      \field{number}{4}
+      \field{title}{THE NATURE OF THE CHEMICAL BOND. APPLICATION OF RESULTS OBTAINED FROM THE QUANTUM MECHANICS AND FROM A THEORY OF PARAMAGNETIC SUSCEPTIBILITY TO THE STRUCTURE OF MOLECULES}
+      \field{volume}{53}
+      \field{year}{1931}
+      \field{pages}{1367\bibrangedash 1400}
+      \range{pages}{34}
+      \verb{doi}
+      \verb 10.1021/ja01355a027
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/ja01355a027
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/ja01355a027
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/ja01355a027
+      \endverb
+    \endentry
+    \entry{raizen}{online}{}
+      \name{author}{1}{}{%
+        {{hash=286ca8893d6a4c6f9790813715d3a2c9}{%
+           family={Raízen},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \strng{fullhash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \strng{bibnamehash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \strng{authorbibnamehash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \strng{authornamehash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \strng{authorfullhash}{286ca8893d6a4c6f9790813715d3a2c9}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Etanol: o que é e como é usado no Brasil}
+      \verb{urlraw}
+      \verb https://www.raizen.com.br/blog/etanol
+      \endverb
+      \verb{url}
+      \verb https://www.raizen.com.br/blog/etanol
+      \endverb
+    \endentry
+    \entry{raymond2015chemistry}{book}{}
+      \name{author}{2}{}{%
+        {{hash=72346ed6694b82e2d23fd695a264de6a}{%
+           family={Raymond\bibnamedelima Chang},
+           familyi={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=92c704304c255557d4748b3ad7dbe09f}{%
+           family={Kenneth\bibnamedelima Goldsby},
+           familyi={K\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {McGraw-Hill Education}%
+      }
+      \strng{namehash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \strng{fullhash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \strng{bibnamehash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \strng{authorbibnamehash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \strng{authornamehash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \strng{authorfullhash}{5ccf332c00dd5cab004e22a0dc8d318c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780078021510}
+      \field{title}{Chemistry}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://books.google.com.br/books?id=_wqDoAEACAAJ
+      \endverb
+      \verb{url}
+      \verb https://books.google.com.br/books?id=_wqDoAEACAAJ
+      \endverb
+    \endentry
+    \entry{sym13040526}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9368133ac38bc0bcc4e8a2841309d530}{%
+           family={Razus},
+           familyi={R\bibinitperiod},
+           given={Alexandru\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{9368133ac38bc0bcc4e8a2841309d530}
+      \strng{fullhash}{9368133ac38bc0bcc4e8a2841309d530}
+      \strng{bibnamehash}{9368133ac38bc0bcc4e8a2841309d530}
+      \strng{authorbibnamehash}{9368133ac38bc0bcc4e8a2841309d530}
+      \strng{authornamehash}{9368133ac38bc0bcc4e8a2841309d530}
+      \strng{authorfullhash}{9368133ac38bc0bcc4e8a2841309d530}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The non-alternant aromatic azulene, an isomer of alternant naphthalene, differs from the latter in peculiar properties. The large polarization of the π-electron system over the seven and five rings gives to azulene electrophile property a pronounced tendency to donate electrons to an acceptor, substituted at azulene 1 position. This paper presents cases in which azulene transfers electrons to a suitable acceptor as methylium ions, positive charged heteroaromatics and examples of neutral molecules that can accept electrons. The proposed product synthesis was outlined and the expected electron transfer was highlighted by analyzing the NMR, UV-Vis spectra and the pKR+ values.}
+      \field{issn}{2073-8994}
+      \field{journaltitle}{Symmetry}
+      \field{number}{4}
+      \field{title}{Azulene Moiety as Electron Reservoir in Positively Charged Systems; A Short Survey}
+      \field{volume}{13}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/sym13040526
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2073-8994/13/4/526
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2073-8994/13/4/526
+      \endverb
+    \endentry
+    \entry{robbins2003phenolic}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b0f5d75e674f0b56652a11e62bf08a20}{%
+           family={Robbins},
+           familyi={R\bibinitperiod},
+           given={Rebecca\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ACS Publications}%
+      }
+      \strng{namehash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \strng{fullhash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \strng{bibnamehash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \strng{authorbibnamehash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \strng{authornamehash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \strng{authorfullhash}{b0f5d75e674f0b56652a11e62bf08a20}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of agricultural and food chemistry}
+      \field{number}{10}
+      \field{title}{Phenolic acids in foods: an overview of analytical methodology}
+      \field{volume}{51}
+      \field{year}{2003}
+      \field{pages}{2866\bibrangedash 2887}
+      \range{pages}{22}
+    \endentry
+    \entry{fenolicos}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9123e21d062a543a71e39cecc1e5636b}{%
+           family={S.A.},
+           familyi={S\bibinitperiod},
+           given={Heleno},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{9123e21d062a543a71e39cecc1e5636b}
+      \strng{fullhash}{9123e21d062a543a71e39cecc1e5636b}
+      \strng{bibnamehash}{9123e21d062a543a71e39cecc1e5636b}
+      \strng{authorbibnamehash}{9123e21d062a543a71e39cecc1e5636b}
+      \strng{authornamehash}{9123e21d062a543a71e39cecc1e5636b}
+      \strng{authorfullhash}{9123e21d062a543a71e39cecc1e5636b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Food Chem.}
+      \field{number}{15}
+      \field{title}{Bioactivity of phenolic acids: metabolites versus parent compounds: a review.}
+      \field{volume}{1}
+      \field{year}{2015}
+    \endentry
+    \entry{Schrodinger}{article}{}
+      \name{author}{1}{}{%
+        {{hash=b5aa85e279cf937c73a46e9674297f10}{%
+           family={Schrodinger},
+           familyi={S\bibinitperiod},
+           given={Erwin},
+           giveni={E\bibinitperiod}}}%
+      }
+      \strng{namehash}{b5aa85e279cf937c73a46e9674297f10}
+      \strng{fullhash}{b5aa85e279cf937c73a46e9674297f10}
+      \strng{bibnamehash}{b5aa85e279cf937c73a46e9674297f10}
+      \strng{authorbibnamehash}{b5aa85e279cf937c73a46e9674297f10}
+      \strng{authornamehash}{b5aa85e279cf937c73a46e9674297f10}
+      \strng{authorfullhash}{b5aa85e279cf937c73a46e9674297f10}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review}
+      \field{number}{6}
+      \field{title}{An Ondulatory Theory of the Mechanics of Atoms and Molecules}
+      \field{volume}{28}
+      \field{year}{1926}
+    \endentry
+    \entry{doi:10.1021/acs.jmedchem.2c00223}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fba0fbee245489a1ba7f399d1b28acdf}{%
+           family={Scott},
+           familyi={S\bibinitperiod},
+           given={Kevin\bibnamedelima A.},
+           giveni={K\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=8ea9b18a3d5ab28b77dbe4db91a34d35}{%
+           family={Cox},
+           familyi={C\bibinitperiod},
+           given={Philip\bibnamedelima B.},
+           giveni={P\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=c77272ffe2435d0c74c7200a80616caa}{%
+           family={Njardarson},
+           familyi={N\bibinitperiod},
+           given={Jon\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \strng{namehash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \strng{fullhash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \strng{bibnamehash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \strng{authorbibnamehash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \strng{authornamehash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \strng{authorfullhash}{1dedd9c994406eaf2e5d0744c1677bce}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Medicinal Chemistry}
+      \field{note}{PMID: 35533692}
+      \field{number}{10}
+      \field{title}{Phenols in Pharmaceuticals: Analysis of a Recurring Motif}
+      \field{volume}{65}
+      \field{year}{2022}
+      \field{pages}{7044\bibrangedash 7072}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1021/acs.jmedchem.2c00223
+      \endverb
+      \verb{eprint}
+      \verb https://doi.org/10.1021/acs.jmedchem.2c00223
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1021/acs.jmedchem.2c00223
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1021/acs.jmedchem.2c00223
+      \endverb
+    \endentry
+    \entry{D2CC01757A}{article}{}
+      \name{author}{9}{}{%
+        {{hash=0c19d469212151fb2ea6fa344c82078a}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Marcos\bibnamedelimb A.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           prefix={da},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=272d672f3a7c2ff1eedb837baea311d7}{%
+           family={Gil},
+           familyi={G\bibinitperiod},
+           given={Jéssica\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=949742be5eeca7a0a752532b14543ac1}{%
+           family={Tarakina},
+           familyi={T\bibinitperiod},
+           given={Nadezda\bibnamedelima V.},
+           giveni={N\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=74e8b6131dbe727318d8594ae30d3038}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Gelson\bibnamedelimb T.\bibnamedelimi S.\bibnamedelimi T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=cf5904b1a40e1bfb84a964a9939ae9da}{%
+           family={Filho},
+           familyi={F\bibinitperiod},
+           given={José\bibnamedelimb B.\bibnamedelimi G.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=f9cf7b1ce6b2b60da616324421421761}{%
+           family={Krambrock},
+           familyi={K\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=eebf9ffa0eef91cce668b078b1730d17}{%
+           family={Antonietti},
+           familyi={A\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=00d4561d7e1776befd7490d66b634cae}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Caue},
+           giveni={C\bibinitperiod}}}%
+        {{hash=12621f6b26c1bda5d284a2b04f91834c}{%
+           family={Teixeira},
+           familyi={T\bibinitperiod},
+           given={Ivo\bibnamedelima F.},
+           giveni={I\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society of Chemistry}%
+      }
+      \strng{namehash}{3f6af3583d55dbe47f1b1f7b210824a9}
+      \strng{fullhash}{fb1f01187dc39d8ca3ee012a7125982c}
+      \strng{bibnamehash}{3f6af3583d55dbe47f1b1f7b210824a9}
+      \strng{authorbibnamehash}{3f6af3583d55dbe47f1b1f7b210824a9}
+      \strng{authornamehash}{3f6af3583d55dbe47f1b1f7b210824a9}
+      \strng{authorfullhash}{fb1f01187dc39d8ca3ee012a7125982c}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{53}
+      \field{journaltitle}{Chem. Commun.}
+      \field{title}{Selective methane photooxidation into methanol under mild conditions promoted by highly dispersed Cu atoms on crystalline carbon nitrides}
+      \field{volume}{58}
+      \field{year}{2022}
+      \field{pages}{7419\bibrangedash 7422}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1039/D2CC01757A
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1039/D2CC01757A
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1039/D2CC01757A
+      \endverb
+    \endentry
+    \entry{fisicas}{online}{}
+      \name{author}{1}{}{%
+        {{hash=fcef3b7437217767664887a8428d4f95}{%
+           family={ToolBox},
+           familyi={T\bibinitperiod},
+           given={The\bibnamedelima Engineering},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \strng{namehash}{fcef3b7437217767664887a8428d4f95}
+      \strng{fullhash}{fcef3b7437217767664887a8428d4f95}
+      \strng{bibnamehash}{fcef3b7437217767664887a8428d4f95}
+      \strng{authorbibnamehash}{fcef3b7437217767664887a8428d4f95}
+      \strng{authornamehash}{fcef3b7437217767664887a8428d4f95}
+      \strng{authorfullhash}{fcef3b7437217767664887a8428d4f95}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Alcohols and Carboxylic Acids - Physical Data}
+      \verb{urlraw}
+      \verb https://www.engineeringtoolbox.com/alcohol-carboxylic-acid-organic-boiling-melting-flash-density-gravity-molweight-d_1967.html#gsc.tab=0
+      \endverb
+      \verb{url}
+      \verb https://www.engineeringtoolbox.com/alcohol-carboxylic-acid-organic-boiling-melting-flash-density-gravity-molweight-d_1967.html#gsc.tab=0
+      \endverb
+    \endentry
+    \entry{trica}{online}{}
+      \name{author}{1}{}{%
+        {{hash=afd8914ec827abd5fe88ad59b7a673be}{%
+           family={Trica},
+           familyi={T\bibinitperiod},
+           given={Diego\bibnamedelima Jose},
+           giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{afd8914ec827abd5fe88ad59b7a673be}
+      \strng{fullhash}{afd8914ec827abd5fe88ad59b7a673be}
+      \strng{bibnamehash}{afd8914ec827abd5fe88ad59b7a673be}
+      \strng{authorbibnamehash}{afd8914ec827abd5fe88ad59b7a673be}
+      \strng{authornamehash}{afd8914ec827abd5fe88ad59b7a673be}
+      \strng{authorfullhash}{afd8914ec827abd5fe88ad59b7a673be}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{SEPARAÇÃO ETANOL-AGUA POR DESTILACAO EXTRATIVA UTILIZANDO SAIS INORGANICOS. MODELO DE NAO-EQUILIBRIO E EFEITO DE ALCOOIS SECUNDARIOS NO EQUILIBRIO LIQUIDO-VAPOR}
+      \verb{urlraw}
+      \verb http://portal.peq.coppe.ufrj.br/index.php/dissertacoes-de-mestrado/2015/14-separacao-etanol-agua-por-destilacao-extrativa-utilizando-sais-inorganicos-modelo-de-nao-equilibrio-e-efeito-de-alcoois-secundarios-no-equilibrio-liquido-vapor/file
+      \endverb
+      \verb{url}
+      \verb http://portal.peq.coppe.ufrj.br/index.php/dissertacoes-de-mestrado/2015/14-separacao-etanol-agua-por-destilacao-extrativa-utilizando-sais-inorganicos-modelo-de-nao-equilibrio-e-efeito-de-alcoois-secundarios-no-equilibrio-liquido-vapor/file
+      \endverb
+      \keyw{destilação,etanol}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

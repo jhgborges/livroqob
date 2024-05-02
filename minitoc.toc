@@ -1,0 +1,43 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\numberline {1}Da descoberta de todas as partículas e elementos}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Partículas fundamentais}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Ciclo de Vida Estelar}{4}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Nucleossíntese dos átomos de Carbono}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}O Processo Triplo Alfa}{6}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Ascenção e queda da Teoria da Força Vital}{9}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Teoria da Força Vital ou Vitalismo}{9}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Salve, Wöhler!}{10}{section.2.2}%
+\contentsline {chapter}{\numberline {3}A ligação química Carbono-Carbono}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Números quânticos}{14}{section.3.1}%
+\contentsline {section}{\numberline {3.2}O conceito de hibridização}{16}{section.3.2}%
+\contentsline {section}{\numberline {3.3}A ligação sigma ($\sigma $)}{19}{section.3.3}%
+\contentsline {section}{\numberline {3.4}A ligação pi ($\pi $)}{23}{section.3.4}%
+\contentsline {chapter}{\numberline {4}Introdução às funções orgânicas}{27}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Reconhecimento de padrões}{27}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Função orgânica}{28}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Hidrocarbonetos}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Origens do petróleo}{34}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Classificação}{35}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Estrutura}{37}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Propriedades físicas de hidrocarbonetos}{37}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Pontos de Fusão e Ebulição}{38}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Solubilidade}{39}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Densidade}{39}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Tensão Superficial}{40}{subsection.5.4.4}%
+\contentsline {section}{\numberline {5.5}Nomenclatura de hidrocarbonetos}{40}{section.5.5}%
+\contentsline {subsection}{\numberline {5.5.1}Nomenclatura substitutiva}{41}{subsection.5.5.1}%
+\contentsline {chapter}{\numberline {6}Álcoois e fenóis}{45}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Aspectos estruturais}{46}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Caráter ácido/base}{46}{subsection.6.1.1}%
+\contentsline {subsection}{\numberline {6.1.2}Propriedades físicas}{49}{subsection.6.1.2}%
+\contentsline {section}{\numberline {6.2}Ocorrência e aplicações}{50}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Álcoois}{50}{subsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.1}Metanol}{50}{subsubsection.6.2.1.1}%
+\contentsline {subsubsection}{\numberline {6.2.1.2}Etanol}{52}{subsubsection.6.2.1.2}%
+\contentsline {subsection}{\numberline {6.2.2}Fenóis}{53}{subsection.6.2.2}%
+\contentsline {chapter}{\numberline {7}Aldeídos e cetonas}{55}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Propriedades físicas}{57}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Nomenclatura}{61}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Aldeídos}{61}{subsection.7.2.1}%
+\contentsline {subsection}{\numberline {7.2.2}Cetonas}{66}{subsection.7.2.2}%
+\contentsline {chapter}{Bibliografia Completa}{69}{chapter*.79}%

@@ -1,0 +1,45 @@
+\documentclass[12pt,demo]{elsarticle}
+%%%\usepackage{subfig} do not use load this package
+
+\usepackage{subcaption} %%% 
+
+\begin{document}
+
+\begin{figure}
+\centering
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8]{category_a1.png}
+    \caption{Frequency of Revolving (Promotional Cash)}
+    \label{subfig:cash}
+\end{subfigure}
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8] {category_a2.png}
+    \caption{Conditional Expectation (Promotional Cash)}
+    \label{subfig:pcash}
+\end{subfigure}
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8]{category_b1.png}
+    \caption{Frequency of Revolving (Regular Cash Withdrawal)}
+    \label{subfig:frwith}
+\end{subfigure}
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8]{category_b2.png}
+    \caption{Conditional Expectation (Regular Cash Withdrawal)}
+    \label{subfig:cewith}
+\end{subfigure}
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8]{category_c1.png}
+    \caption{Frequency of Revolving (Retail Transactions)}
+    \label{subfig:frtra}
+\end{subfigure}
+\begin{subfigure}{.4\textwidth}
+    \includegraphics[scale=0.8]{category_c2.png}
+    \caption{Conditional Expectation (Retail Transactions)}
+    \label{subfig:cetra}
+\end{subfigure}
+\caption{Validation of Revolving by Categories}
+\label{fig:revol}
+\end{figure}
+
+Refer to figure~\ref{fig:revol}
+\end{document}

@@ -1,0 +1,255 @@
+\documentclass[a4paper,12pt,]{book}
+\usepackage{imakeidx}
+\makeindex
+\usepackage[framemethod=TikZ]{mdframed}
+\usepackage[version=4]{mhchem}
+\usepackage{chemfig}
+\usepackage{indentfirst}
+\usepackage{float}
+\usepackage{minitoc}
+\usepackage{wrapfig}
+\usepackage{subfigure}
+\usepackage{textcomp}
+\usepackage{pgfplots}
+\usepackage{relsize}
+\usepackage{graphicx}
+\usepackage{enumitem}% http://ctan.org/pkg/enumitem
+\setlist[description]{labelindent=0pt,style=multiline,leftmargin=1.8cm}
+\pgfplotsset{width=10cm,compat=1.9}
+\usepackage[export]{adjustbox}
+\renewcommand{\mtifont}{\large\sffamily}
+\renewcommand{\mtcfont}{\small\sffamily}
+\renewcommand{\mtcSfont}{\small\sffamily}
+\renewcommand{\mtcSSfont}{\small\sffamily}
+\renewcommand{\mtcSSSfont}{\small\sffamily}
+\setcounter{minitocdepth}{3}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{3}
+\setlength\parindent{24pt}
+\mtcsettitle{minitoc}{Conteúdo}
+\mtcsetrules{minitoc}{off}
+\usepackage{caption}
+\newcommand{\source}[1]{\caption*{Fonte: {#1}}}
+\usepackage[utf8]{inputenc}
+\usepackage[brazil]{babel}
+\usepackage{csquotes}
+\usepackage[margin=2cm]{geometry}
+\usepackage[Sonny]{fncychap}
+\usepackage{xcolor}
+\usepackage[sfdefault,light]{FiraSans}
+\usepackage[backend=biber]{biblatex}
+\addbibresource{livro.bib}
+\usepackage{hyperref}
+\hypersetup{
+	colorlinks=true,
+	linkcolor=blue,
+	filecolor=magenta,      
+	urlcolor=cyan,
+	pdftitle={Química Orgância Básica},
+	pdfpagemode=FullScreen,
+}
+
+\usepackage{tcolorbox}
+
+\begin{document}
+	\author{JHGB / ACM}
+	\title{Química Orgânica Básica}
+	\dominitoc
+	\frontmatter
+	\maketitle
+	\tableofcontents
+	\listoffigures
+	\listoftables
+	
+	\mainmatter
+	
+	\chapter{Da descoberta de todas as partículas e elementos}
+	\begin{mdframed}[backgroundcolor=orange!20,linewidth=0pt,roundcorner=10pt]
+		\minitoc
+	\end{mdframed}
+	\hspace{\parindent} Um dos autores deste livro sempre tentou ensinar a seus alunos a origem primária de cada item que ensina, como por exemplo a Equação de Estado de Gases Ideais, ou então a viscosidade de fluidos. Porém, quando se trata de elementos químicos a situação fica um pouco mais complicada porque os elementos químicos, esses pequenos blocos construtivos, não foram produzidos neste planeta por uma razão simples: não há energia suficiente por aqui para uma tarefa tão grande quanto a fusão de núcleos menores para formar núcleos maiores.
+
+	Temos neste momento ao menos duas perguntas presentes na cabeça da pessoa que lê este livro bem agora: (a) por que é necessária tanta energia e (b) onde e como tais átomos foram criados?
+
+	Analisemos o elemento químico mais simples existente e poderemos construir as respostas. O Hidrogênio é composto por um próton um elétron e ainda um ou dois nêutrons, dependendo do isótopo \footnote{Isótopos são átomos com o mesmo número atômico, diferindo uns dos outros pelo número de nêutrons em seus núcleos} analisado. O segundo elemento mais simples, depois do Hidrogênio é conhecido como Hélio e possui dois prótons em seu núcleo. Parece simples, não é? Mas não é. Inserir um novo próton em um núcleo que já possui um próton signifca lidar com algo implacável chamada \textbf{repulsão elétrica}, que pode ser entendida de modo bem simples como \textbf{partículas com cargas iguais repelem-se mutuamente}, conforme pode ser visto na figura \ref{fig:ar}.
+
+	Analisando a figura, podemos perceber a força elétrica \textbf{repulsiva} entre as duas partículas com cargas elétricas positivas, indicada por duas setas com sentidos opostos. Ocorreria o mesmo se as duas partículas fossem negativamente carregadas. Porém, caso as partículas apresentem cargas elétricas \textbf{opostas} e estejam, por exemplo, separadas por uma distância \textbf{r}, conforme mostra a figura, temos uma força \textbf{atrativa} que manterá as partículas próximas. Tal ideia é usada no conceito de \textbf{ligação iônica} \footnote{Atração elétrica entre íons com cargas elétricas opostas.}.
+
+	\begin{figure}[h]
+		\centering
+		\caption{Atração e repulsão elétrica.}
+		\vspace{0.5cm}
+		\includegraphics[width=0.5\linewidth]{imagens/ar2.png}
+		\caption*{Fonte: Wikipedia (adaptada), original disponível em https://shorturl.at/kwB35}
+	\label{fig:ar}
+	\end{figure}
+
+	\section{Partículas fundamentais}
+	Se considerarmos o Big Bang como o início de tudo que existe no universo conhecido, sabemos que as primeiras partículas a se formarem foram aquelas que chamamos de \textbf{fundamentais} \cite{griffiths2020introduction} e entre elas citamos os quarks, elétrons, fótons e glúons, como pode ser visto na figura \ref{fig:particulaselementares}
+
+\begin{figure}[H]
+	\centering
+	\caption{Modelo Padrão de partículas elementares}
+	\vspace{0.25cm}
+	\label{fig:particulaselementares}
+	\includegraphics[width=0.75\linewidth]{imagens/boson2.png}
+	\caption*{Fonte: Wikipedia, original disponível em https://shorturl.at/qwEOZ}
+\end{figure}
+
+A descrição completa da Figura \ref{fig:particulaselementares} está além do escopo primário deste livro, mas podemos analisar, sem grandes dificuldades, a composição detalhada de um próton, pois você deve lembrar-se que seis desses prótons formam o núcleo do magnífico carbono.
+
+Não é tão complicado e siga o fio para entender claramente. Sabemos que o próton possui carga positiva com valor 1,6{$\cdot$}10{$^{-19}$} C \footnote{C é a unidade de carga chamada Coulomb} e massa aproximada de 1 u (ou massa atômica \cite{IUPAC+A00496+2019}) \footnote{1 u = 1,66 $\cdot$ 10$^{-24}$ g}. Estudos na área da Física de Alta Energia mostraram que o próton é formado por três quarks: dois quarks up e um quark down, unidos por um bóson chamado \textbf{glúon} Seguindo os dados presentes na Figura \ref{fig:particulaselementares}, cada quark up possui carga +2/3 e cada quark down possui carga -1/3. A soma simples dessas cargas resulta em 3/3, ou seja, 1. 
+
+A manutenção desse sistema todo que mantém o próton íntegro é mediada pela \textbf{Força Nuclear Forte}, uma das forças elementares da Natureza e também a mais forte delas, embora atue apenas na escala nuclear.
+
+De modo semelhante e com resultados dos mesmos estudos, um nêutron (com carga zero) é formado por um quark up e dois quarks down. A soma dessas cargas resulta em zero!
+
+Muito bem! Já sabemos como se organizam as três partículas de mais fácil compreensão em átomos: prótons, nêutrons e elétrons. Mas precisamos entender como são produzidos átomos maiores, o que nos deixa com outra pergunta um tanto séria: conhecendo o Princípio de Repulsão das Cargas Elétricas, como é possível manter, por exemplo, dois prótons em um núcleo atômico? A resposta é composta duas partes:
+
+\begin{enumerate}
+	\item \textbf{A presença de nêutrons}. Sabemos que estas partículas são formadas por um próton e um elétron, mantidos unidos por uma entidade sem massa nem carga chamada \textbf{neutrino}. Uma das funções dos nêutrons no núcleo atômico é justamente afastar ligeiramente os prótons de outros prótons, como forma de diminuir a repulsão elétrica causada pela proximidade de partículas de mesma carga colocadas em uma distância tão pequena como as verificadas em escala nuclear.
+	\item \textbf{A Força Nuclear Forte}: A força nuclear forte é uma das quatro forças fundamentais da natureza, responsável pela coesão entre os núcleos atômicos. Ela é responsável por manter os prótons e nêutrons unidos, apesar da repulsão eletromagnética entre os prótons, que são carregados positivamente. A força nuclear forte é muito mais forte que a força eletromagnética, sendo cerca de 100 vezes mais forte. No entanto, ela tem um alcance muito curto, de apenas cerca de 10$^{-15}$ metros. Isso significa que ela só é significativa em distâncias muito pequenas, como no interior do núcleo atômico.
+	
+	A força nuclear forte é mediada por partículas chamadas \textbf{glúons}. Os glúons são partículas elementares que não possuem massa. A força nuclear forte é responsável por ligar os quarks, que são as partículas elementares que compõem os prótons e nêutrons. A força nuclear forte é fundamental para a existência da matéria como a conhecemos. Ela é responsável pela formação dos átomos, das moléculas e das estrelas. Sem a força nuclear forte, o universo seria um lugar muito diferente, com átomos muito instáveis e sem a possibilidade de formar estruturas complexas.
+\end{enumerate}
+
+Para entendermos como essas partículas nucleares foram criadas, precisamos compreender que partículas maiores são sempre formadas a partir da junção ou fusão de partículas menores, e tal operação requer energia em quantidades incrivelmente altas, obtidas apenas em condições experimentais raras e caras, ou ainda em estrelas, principalmente aquelas presentes na chamada "Sequência Principal".
+
+\section{Ciclo de Vida Estelar}\index{Ciclo de vida estelar}
+
+Todas as estrelas conhecidas transitam pela chamada \textbf{Sequência Principal}, onde o núcleo estelar possui as condições de temperatura e pressão capazes de fundir Hidrogênio em Hélio, processo que exige temperatura próxima de 100 milhões K. Em função de sua massa, nosso Sol queimará todo seu Hidrogênio em Hélio durante um intervalo de tempo bastante elevado, por volta de 4 ou 5 bilhões de anos. Depois de esgotar seu combustível, o Sol passará por uma transformação radical e converter-se-á em uma estrela gigante vermelha, com capacidade nuclear para produzir Carbono e Oxigênio. Porém, para tanto, seu tamanho aumentará sobremaneira que inviabilizará a vida na Terra. Veja na Figura \ref{fig:HR} \cite{HR} a correlação entre cor e magnitude das estrelas.
+
+\begin{figure}[h]
+	\centering
+	\caption{Diagrama de Hertzsprung-Russell}
+	\vspace{0.25cm}
+	\label{fig:HR}
+	\includegraphics[width=1\linewidth]{imagens/diagrama-hr-completo.jpg}
+	\caption*{Fonte: Scientific American, disponível em https://shorturl.at/dzELZ}
+\end{figure}
+
+O diagrama contém um grupo de estrelas, incluindo o Sol, que formam uma linha diagonal (parece mais uma curva sigmóide) que vai do lado superior esquerdo (com estrelas brilhantes e quentes) ao lado inferior direito (com estrelas menos brilhantes e "mais frias"). Essa diagonal é a chamada \textbf{Sequência Principal}. Estrelas mais brilhantes promovem reações de fusão mais rapidamente porque são mais massivas e, portanto, mais quentes.
+
+O diagrama também mostra, na parte superior direita as chamadas \textbf{estrelas supergigantes}, que muitas vezes explodem como \textbf{supernovas}. A produção de Carbono, em estrelas mais massivas que o Sol, envolve temperaturas bem mais altas que em nosso Sol e ocorre em camadas mais profundas na estrela e o caminho em direção ao centro aumenta a temperatura e pressão cada vez mais, possibilitando a nucleossíntese de outros elementos químicos, até o Ferro. Elementos mais pesados que o Ferro são produzidos em processos extremos, como a explosão de supernovas, estrelas muito massivas que esgotam seu combustível e então explodem. Esse processo extremo espalha elementos químicos produzidos na explosão e, eventualmente, enriquece nuvens de gases e poeira na região do espaço onde o Sol e Terra se formaram. Assim, os elementos que aqui existem são originários da desintegração de outras estrelas.
+
+\section{Nucleossíntese dos átomos de Carbono}
+A vida no planeta Terra é baseada no elemento químico Carbono e por tal razão iniciamos nossa jornada a partir do ponto zero: como os átomos de Carbono são produzidos em processos estelares. Para que se tenha uma ideia da dimensão energética envolvida, a temperatura necessária atinge, aproximadamente, 10$^8$ K. Isso mesmo: cem milhões!
+
+É um consenso que átomos de Carbono formaram-se, assim como outros elementos, através de violentíssimos choques causados por eventos que beiram o inimaginável, como a quase inacreditável temperatura citada anteriormente. Os pesquisadores \textbf{Subrahmanyan Chandrasekhar} e \textbf{William Alfred Fowler}, que desenvolveram - e comprovaram - essas ideias foram laureados com o Prêmio Nobel de Física em 1983 \footnote{Veja mais em https://www.nobelprize.org/prizes/physics/1983/summary/}, quase 30 anos após os estudos iniciais.
+
+Estrelas com capacidade energética suficiente conseguem "fundir Carbono" \index{Nucleossíntese do Carbono}, usando uma terminologia muito frequente na área astronômica. As mais recentes concepções sobre a nucleossíntese do Carbono envolvem um processo conhecido como "Triplo Alfa". A expressão "fundir Carbono" significa um conjunto de reações nucleares que parte de átomos mais leves, como Hélio ou Berílio, para formar o núcleo do Carbono, por meio da fusão nuclear. Este método exige muita energia, e a produção de elementos mais pesados que o carbono requer ainda mais energia.
+
+\section{O Processo Triplo Alfa}
+Sabemos há um bom tempo que o núcleo do átomo de Carbono é composto por seis prótons e seis nêutrons, totalizando doze partículas. Repare que o nome do processo relaciona-se com uma partícula radioativa conhecida como radiação (ou partícula) alfa, que possui dois prótons e dois nêutrons, mas sem seus elétrons, o equivalente ao núcleo do átomo de Hélio. A união dessas partículas produzirá o núcleo do Carbono e caracteriza o Processo Triplo Alfa \index{Processo Triplo Alfa} \cite{TA}.
+
+Analise a Figura \ref{fig:triploalfa} para melhor compreensão do processo, embora apresentado de modo bem simplificado.
+
+\begin{figure}[h]
+	\centering
+	\caption{O Processo Triplo Alfa}
+	\vspace{0.25cm}
+	\includegraphics[width=0.75\linewidth]{imagens/ta.png} 
+	\label{fig:triploalfa}
+\end{figure}
+
+O processo triplo alfa é uma reação nuclear de fusão que converte três núcleos de Hélio (partículas alfa) em um núcleo de Carbono. Este processo é responsável pela produção de Carbono no universo, e é um dos processos mais importantes na nucleossíntese estelar.
+
+O processo triplo alfa ocorre em temperaturas muito altas, acima de 100 milhões de kelvin. Essas temperaturas são encontradas no núcleo das estrelas, onde o Hidrogênio é fundido em Hélio e ocorre em duas etapas:
+
+\begin{enumerate}
+	\item \textbf{Berílio-8}: Duas partículas alfa se fundem para formar um núcleo de Berílio-8. O Berílio-8 é um núcleo instável, que se decompõe em duas partículas alfa em cerca de $10^{-16}$ segundos.
+	\item \textbf{Carbono-12}: Uma partícula alfa se funde com um núcleo de Berílio-8 para formar um núcleo de Carbono-12, estável. O processo é um processo altamente eficiente, liberando cerca de 7,2 milhões de elétron-volts \footnote{O elétron-volt (eV) é uma unidade de medida de energia. É utilizado principalmente na física de partículas e na física atômica. Um elétron-volt é a quantidade de energia cinética ganha por um único elétron quando acelerado por uma diferença de potencial de um Volt.} de energia. Esta energia é usada para sustentar a fusão nuclear das estrelas.
+\end{enumerate}
+
+O processo triplo alfa foi um processo importante para a vida na Terra, uma vez que o Carbono é um elemento essencial para a vida neste planeta, e o processo triplo alfa é responsável pela produção de Carbono no universo. O Carbono é um elemento mais pesado que o Hélio, e sua produção marca o início da produção de elementos mais pesados nas estrelas.
+
+A partir desse momento, o átomo de Carbono formado em aglomerados de gás e poeira, lentamente agrupa-se com outros incontáveis átomos para formar, por exemplo, nosso planeta azul chamado Terra. O planeta conta, agora, com muitos tipos de elementos químicos e as diversas modificações sofridas pelo planeta em tempos remotos acabaram resultando em muitas substâncias conhecidas hoje, mas a formação de biomoléculas é um assunto complexo o suficiente para ser tratado em separado, em outro ponto deste livro.
+	
+\chapter{Ascenção e queda da Teoria da Força Vital}
+\begin{mdframed}[backgroundcolor=orange!20,linewidth=0pt,roundcorner=10pt]
+\minitoc
+\end{mdframed}
+O tempo passou e diversos apaixonados pela experimentação viviam a expectativa de criar novas substâncias, ou então simplesmente obter algo como o utópico Elixir da Vida Eterna ou então o milagre da (hoje chamada) transmutação, na esperança vã de transformar qualquer metal em ouro. \index{Vitalismo}
+
+Naturalmente, nenhum desses dois objetivos de muitos alquimistas foi alcançado, pois hoje sabemos que o corpo humano, por mais longevo que seja, não possui capacidade de persistir por pouco mais de 120 anos. Do mesmo modo, transformar um metal em ouro envolve complicados processos nucleares nem sempre efetuados com sucesso, mas tal conhecimento ainda não estava disponível aos alquimistas. De qualquer forma, o esforço desses pesquisadores permitiu o avanço, embora um pouco tímido, da Química como ciência experimental.
+
+O magnífico Antoine-Laurent de Lavoisier, descobridor do Oxigênio, Hidrogênio e do Enxofre, lançou as bases da ciência baseada na absoluta necessidade de experimentação laboratorial e enunciou, por volta de 1777, a Lei de Conservação da Massa, na qual, em um sistema fechado, a massa total de reagentes e produtos permanece constante. Este enunciado ajudou John Dalton, no começo do século 19, a elaborar seu modelo atômico.
+
+\begin{figure}[h]
+	\centering
+	\caption{Antoine-Laurent de Lavoisier e Marie-Anne Pierretti Paulze}
+	\includegraphics[width=0.85\linewidth]{imagens/figura 4.png} 
+	\caption*{Fonte: BBC News Brasil, disponível em https://shorturl.at/owP17}
+	\label{fig:wrapfig}
+\end{figure}
+
+
+\section{Teoria da Força Vital ou Vitalismo}
+Muitos pesquisadores e entusiastas da ciência realizavam todo tipo de experimentação, o que criou, por exemplo, o ofício de perfumista. A curiosidade os levava a analisar diversos materiais e organismos em busca de sua composição e, por causa de empreitadas assim, muitas substâncias foram descobertas, inclusive com aplicações médicas, mas tudo a partir daqui esbarrava em uma barreira até então intransponível: não era possível produzir artificialmente uma substância de origem vegetal ou animal, e apenas tais organismos possuíam uma misteriosa \textbf{força vital} \index{Força vital} que os permitia produzir tais substâncias.
+
+Naquele momento da história, definia-se Química Orgânica como \textbf{a parte da Química que estuda substâncias obtidas de organismos vivos}, os portadores da Força Vital. Mas o tempo passou novamente e chegou-se em 1828, na Alemanha.
+
+\section{Salve, Wöhler!}
+A Química possui muitos nomes de destaque ao longo da história, como o próprio Lavoisier, Berzelius, Van't Hoff, Grignard, entre muitos outros. O próximo nome de destaque saiu de sua terra natal para estudar com Berzelius, em Estocolomo. A Universidade de Göttingen, onde Friedrich Wöhler \index{Wöhler} tornou-se docente, é considerada um celeiro de grandes nomes da ciência, como Gauss, Fermi e Pauli.
+
+\begin{figure}[h]
+	\centering
+	\caption{Friedrich Wöhler}
+	%\vspace{0.25cm}
+	\label{fig:wohler}
+	\includegraphics[width=0.5\linewidth]{imagens/wohler.jpg}
+	\caption*{Fonte: Rincón Educativo, disponível em https://shorturl.at/notuK}
+\end{figure}
+
+Filho de pai veterinário e mãe filantropa, Wöhler era muito dedicado à ciência de modo geral, uma vez que sua atuação como químico não era a única de sua carreira, pois atuou também como obstetra, mas uma de suas atividades ajudou a mudar os rumos da Química Orgânica, até o momento restrita a substâncias extraídas de seres vivos, daí a origem do chamado Vitalismo.
+
+Embora tenha sido considerado o estopim da derrocada do Vitalismo, este perdurou ainda por muitos anos devido, em parte, à dificuldade em aceitar algo radicalmente diferente e, podemos dizer, até certo ponto iconoclasta. O declínio do Vitalismo começou a ficar mais evidente em 1843, quando Hermann Kopp defendeu que a Síntese de Wöhler (uma delas) foi o ponto de partida para o abandono de teorias vitalistas. Mas qual seria essa tão marcante reação?
+
+Na realidade, não foi apenas uma reação pontual, mas algumas que, combinadas em uma certa sequência, levaram à produção da ureia \index{Ureia}. Uma reação que pode ser considerada como representativa desse processo é apresentada na figura \ref{fig:ureia} a seguir.
+
+\begin{figure}[h]
+	\centering
+	\vspace{0.5cm}
+	\caption{Uma das etapas da síntese da ureia, por aquecimento do cianato de amônio.}
+	\label{fig:ureia}
+	\includegraphics[width=0.7\linewidth]{imagens/Urea_Synthesis_Woehler.png}
+	\caption*{Fonte: Autores}
+\end{figure}
+
+Esqueça, por um momento, que Wöhler era aluno de Berzelius, um dos mais fervorosos defensores do Vitalismo, este mortalmente ferido com a síntese de Wöhler. Qual foi uma consequência real de todo esse processo? A síntese de muitas outras substâncias orgânicas, como medicamentos, fertilizantes, entre muitos outros exemplos. Por razões estritamente pessoais, o autor deste livro exemplifica a molécula do taxol \index{Taxol} como uma consequência do feito de Wöhler, como pode ser visto na Figura \ref{fig:taxol}
+
+\begin{figure}[h]
+	\centering
+	\caption{Estrutura do paclitaxel, uma substância polifuncional contendo as funções álcool, cetona, éter, amida e éster.}
+	\includegraphics[width=0.5\linewidth]{imagens/Taxol.svg.png} 
+	\label{fig:taxol}
+	\caption*{Fonte: Autores}
+\end{figure}
+
+
+O que move a ciência é o questionamento: como alguém descobriu que essa molécula é encontrada nessa árvore em especial e ainda possui atividade antitumoral tão intensa? A resposta é simples e cristalina como água pura.
+
+Na década de 1960, o National Cancer Institute (NCI), nos EUA, iniciou um programa ambicioso de \emph{screening}, ou seja, busca, por substâncias naturais com potencial atividade antitumoral e \textbf{foram coletadas amostras de mais de 35000 amostras de plantas diferentes}, no país todo. Perto de 10 anos após a coleta, uma substância chamada \textbf{paclitaxel}, com potencial ação antitumoral, foi encontrada e tornou-se um medicamento aprovado em 1992, quase 30 anos após o início do projeto de \emph{screening} \cite{paclitaxel}.
+
+A ação do taxol está relacionada com a estabilização dos microtúbulos, impedindo que ocorra a despolimerização e causando a morte celular, uma vez que os microtúbulos são intimamente relacionados com a estabilidade da parede celular de células eucarióticas. Sua síntese foi muito aguardada e disputada no meio químico, pois foi necessário abater 38000 árvores para obter a quantidade de moléculas necessárias para tratar os 12000 pacientes dos ensaios clínicos in vivo.
+
+Esteja onde estiver, Wöhler, esta conquista é sua!
+
+\include{ligacao_cc}
+
+\include{funcoes_organicas}
+
+\include{hidrocarbonetos}
+
+\include{hidroxil}
+
+\include{aldeidos_cetonas}
+
+	% Final do texto e início dos elementos pós-textuais
+	\backmatter
+	
+	\printindex
+	
+	\printbibliography[heading=bibintoc,title={Bibliografia Completa}]
+	
+\end{document}
