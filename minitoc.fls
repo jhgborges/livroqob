@@ -1870,9 +1870,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fira/OT1FiraSans-OsF.fd
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/fira/FiraSans-Light-osf-ot1.tfm
-INPUT ./minitoc.aux
-INPUT minitoc.aux
-INPUT minitoc.aux
 OUTPUT minitoc.aux
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
