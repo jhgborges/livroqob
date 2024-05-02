@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.7)  2 MAY 2024 00:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.7)  2 MAY 2024 01:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1445,29 +1445,20 @@ Overfull \hbox (5.02173pt too wide) in paragraph at lines 76--77
 [1
 
 ]
-
-LaTeX Warning: File `imagens/ar2.png' not found on input line 82.
-
-
-/Users/jhgb/Documents/GitHub/livroqob/minitoc.tex:82: Package pdftex.def Error: File `imagens/ar2.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.82 ...hics[width=0.5\linewidth]{imagens/ar2.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/ar2.png, id=63, 989.6975pt x 604.2575pt>
+File: imagens/ar2.png Graphic file (type png)
+<use imagens/ar2.png>
+Package pdftex.def Info: imagens/ar2.png  used on input line 82.
+(pdftex.def)             Requested size: 241.84843pt x 147.65253pt.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <17.28> not available
 (Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
 (Font)              scaled to size 17.28pt on input line 87.
 
+
 LaTeX Warning: Reference `fig:particulaselementares' on page 2 undefined on input line 88.
 
-<imagens/boson2.png, id=64, 1395.2125pt x 1334.9875pt>
+<imagens/boson2.png, id=66, 1395.2125pt x 1334.9875pt>
 File: imagens/boson2.png Graphic file (type png)
 <use imagens/boson2.png>
 Package pdftex.def Info: imagens/boson2.png  used on input line 95.
@@ -1475,7 +1466,7 @@ Package pdftex.def Info: imagens/boson2.png  used on input line 95.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2]
+ [2 <./imagens/ar2.png>]
 
 LaTeX Warning: Reference `fig:particulaselementares' on page 3 undefined on input line 99.
 
@@ -1486,37 +1477,26 @@ LaTeX Warning: Reference `fig:particulaselementares' on page 3 undefined on inpu
 
 LaTeX Warning: Reference `fig:HR' on page 4 undefined on input line 120.
 
-
-LaTeX Warning: File `imagens/diagrama-hr-completo.jpg' not found on input line 127.
-
-
-/Users/jhgb/Documents/GitHub/livroqob/minitoc.tex:127: Package pdftex.def Error: File `imagens/diagrama-hr-completo.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.127 ...ewidth]{imagens/diagrama-hr-completo.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/diagrama-hr-completo.jpg, id=93, 702.625pt x 528.885pt>
+File: imagens/diagrama-hr-completo.jpg Graphic file (type jpg)
+<use imagens/diagrama-hr-completo.jpg>
+Package pdftex.def Info: imagens/diagrama-hr-completo.jpg  used on input line 127.
+(pdftex.def)             Requested size: 483.69687pt x 364.09981pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4]
+[4] [5 <./imagens/diagrama-hr-completo.jpg>]
 
-LaTeX Warning: Reference `fig:triploalfa' on page 5 undefined on input line 145.
+LaTeX Warning: Reference `fig:triploalfa' on page 6 undefined on input line 145.
 
-<imagens/ta.png, id=101, 903.375pt x 602.25pt>
+<imagens/ta.png, id=109, 903.375pt x 602.25pt>
 File: imagens/ta.png Graphic file (type png)
 <use imagens/ta.png>
 Package pdftex.def Info: imagens/ta.png  used on input line 151.
 (pdftex.def)             Requested size: 362.77264pt x 241.85144pt.
+[6 <./imagens/ta.png>] [7] [8
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[5] [6] [7] [8 <./imagens/ta.png>]
+]
 Cap\'{\i }tulo 2.
 Package mdframed Info: mdframed works in twoside mode on input line 169.
 \openout5 = `minitoc.mtc'.
@@ -1527,84 +1507,43 @@ Package mdframed Info: mdframed works in twoside mode on input line 169.
 
 LaTeX Warning: Reference `mdf@pagelabel-2' on page 9 undefined on input line 171.
 
-
-LaTeX Warning: File `imagens/figura 4.png' not found on input line 181.
-
-
-/Users/jhgb/Documents/GitHub/livroqob/minitoc.tex:181: Package pdftex.def Error: File `imagens/figura 4.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.181 ...dth=0.85\linewidth]{imagens/figura 4.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/figura 4.png, id=133, 692.5875pt x 430.60875pt>
+File: imagens/figura 4.png Graphic file (type png)
+<use imagens/figura 4.png>
+Package pdftex.def Info: imagens/figura 4.png  used on input line 181.
+(pdftex.def)             Requested size: 411.14528pt x 255.6273pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[9
-
-]
-<imagens/wohler.jpg, id=138, 324.46219pt x 208.52907pt>
+[9]
+<imagens/wohler.jpg, id=141, 324.46219pt x 208.52907pt>
 File: imagens/wohler.jpg Graphic file (type jpg)
 <use imagens/wohler.jpg>
 Package pdftex.def Info: imagens/wohler.jpg  used on input line 200.
 (pdftex.def)             Requested size: 241.84843pt x 155.43547pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10]
+ [10 <./imagens/figura 4.png (PNG copy)> <./imagens/wohler.jpg>]
 
 LaTeX Warning: Reference `fig:ureia' on page 11 undefined on input line 208.
 
-
-LaTeX Warning: File `imagens/Urea_Synthesis_Woehler.png' not found on input line 215.
-
-
-/Users/jhgb/Documents/GitHub/livroqob/minitoc.tex:215: Package pdftex.def Error: File `imagens/Urea_Synthesis_Woehler.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.215 ...idth]{imagens/Urea_Synthesis_Woehler.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+<imagens/Urea_Synthesis_Woehler.png, id=148, 425.48962pt x 89.43413pt>
+File: imagens/Urea_Synthesis_Woehler.png Graphic file (type png)
+<use imagens/Urea_Synthesis_Woehler.png>
+Package pdftex.def Info: imagens/Urea_Synthesis_Woehler.png  used on input line 215.
+(pdftex.def)             Requested size: 338.58632pt x 71.17075pt.
 
 LaTeX Warning: Reference `fig:taxol' on page 11 undefined on input line 219.
 
-
-LaTeX Warning: File `imagens/Taxol.svg.png' not found on input line 224.
-
-
-/Users/jhgb/Documents/GitHub/livroqob/minitoc.tex:224: Package pdftex.def Error: File `imagens/Taxol.svg.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.224 ...dth=0.5\linewidth]{imagens/Taxol.svg.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+<imagens/Taxol.svg.png, id=149, 2569.6pt x 1738.495pt>
+File: imagens/Taxol.svg.png Graphic file (type png)
+<use imagens/Taxol.svg.png>
+Package pdftex.def Info: imagens/Taxol.svg.png  used on input line 224.
+(pdftex.def)             Requested size: 241.84843pt x 163.62016pt.
+[11 <./imagens/Urea_Synthesis_Woehler.png> <./imagens/Taxol.svg.png>]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/it' in size <12> not available
 (Font)              Font shape `OT1/FiraSans-OsF/light/it' tried instead on input line 232.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/it' will be
 (Font)              scaled to size 12.0pt on input line 232.
-[11 <./imagens/wohler.jpg>] [12]
+ [12]
 \openout2 = `ligacao_cc.aux'.
 
  (./ligacao_cc.tex
@@ -1631,7 +1570,7 @@ Overfull \hbox (11.18973pt too wide) in paragraph at lines 9--10
 
 LaTeX Warning: Reference `fig:orbitais' on page 13 undefined on input line 13.
 
-<imagens/all_orbitals.jpg, id=165, 1409.265pt x 827.09pt>
+<imagens/all_orbitals.jpg, id=172, 1409.265pt x 827.09pt>
 File: imagens/all_orbitals.jpg Graphic file (type jpg)
 <use imagens/all_orbitals.jpg>
 Package pdftex.def Info: imagens/all_orbitals.jpg  used on input line 20.
@@ -1655,7 +1594,7 @@ LaTeX Warning: Reference `eqn:orbitais' on page 15 undefined on input line 40.
 
 LaTeX Warning: Reference `eqn:orbitais' on page 15 undefined on input line 42.
 
-<imagens/spin.png, id=184, 642.4pt x 329.23pt>
+<imagens/spin.png, id=191, 642.4pt x 329.23pt>
 File: imagens/spin.png Graphic file (type png)
 <use imagens/spin.png>
 Package pdftex.def Info: imagens/spin.png  used on input line 51.
@@ -1683,12 +1622,12 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/n' in size <6> not available
 (Font)              Font shape `OT1/FiraSans-OsF/light/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/n' will be
 (Font)              scaled to size 6.0pt on input line 64.
-<imagens/metano_detalhado.png, id=193, 798.985pt x 220.825pt>
+<imagens/metano_detalhado.png, id=200, 798.985pt x 220.825pt>
 File: imagens/metano_detalhado.png Graphic file (type png)
 <use imagens/metano_detalhado.png>
 Package pdftex.def Info: imagens/metano_detalhado.png  used on input line 66.
 (pdftex.def)             Requested size: 386.95897pt x 106.94835pt.
-<imagens/hibridacao_visual_traduzida.png, id=194, 1371.1225pt x 770.88pt>
+<imagens/hibridacao_visual_traduzida.png, id=201, 1371.1225pt x 770.88pt>
 File: imagens/hibridacao_visual_traduzida.png Graphic file (type png)
 <use imagens/hibridacao_visual_traduzida.png>
 Package pdftex.def Info: imagens/hibridacao_visual_traduzida.png  used on input line 77.
@@ -1701,7 +1640,7 @@ LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <10> not available
 (Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 82.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
 (Font)              scaled to size 10.0pt on input line 82.
-<imagens/fund_excit.png, id=203, 461.725pt x 232.87pt>
+<imagens/fund_excit.png, id=210, 461.725pt x 232.87pt>
 File: imagens/fund_excit.png Graphic file (type png)
 <use imagens/fund_excit.png>
 Package pdftex.def Info: imagens/fund_excit.png  used on input line 89.
@@ -1716,7 +1655,7 @@ Overfull \hbox (6.12457pt too wide) in paragraph at lines 93--94
  []
 
 [17 <./imagens/hibridacao_visual_traduzida.png> <./imagens/fund_excit.png>]
-<imagens/Hybridization_of_carbon.png, id=216, 1417.295pt x 1119.18124pt>
+<imagens/Hybridization_of_carbon.png, id=223, 1417.295pt x 1119.18124pt>
 File: imagens/Hybridization_of_carbon.png Graphic file (type png)
 <use imagens/Hybridization_of_carbon.png>
 Package pdftex.def Info: imagens/Hybridization_of_carbon.png  used on input line 100.
@@ -1750,7 +1689,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 LaTeX Warning: Reference `fig:dar' on page 19 undefined on input line 116.
 
-<imagens/dar.png, id=227, 1371.1225pt x 770.88pt>
+<imagens/dar.png, id=234, 1371.1225pt x 770.88pt>
 File: imagens/dar.png Graphic file (type png)
 <use imagens/dar.png>
 Package pdftex.def Info: imagens/dar.png  used on input line 122.
@@ -1770,7 +1709,7 @@ LaTeX Warning: Reference `fig:sigma' on page 20 undefined on input line 136.
 
 LaTeX Warning: Reference `fig:sigma' on page 20 undefined on input line 138.
 
-<imagens/sigma.jpg, id=235, 469.755pt x 131.17004pt>
+<imagens/sigma.jpg, id=242, 469.755pt x 131.17004pt>
 File: imagens/sigma.jpg Graphic file (type jpg)
 <use imagens/sigma.jpg>
 Package pdftex.def Info: imagens/sigma.jpg  used on input line 145.
@@ -1778,7 +1717,7 @@ Package pdftex.def Info: imagens/sigma.jpg  used on input line 145.
 
 LaTeX Warning: Reference `fig:om' on page 20 undefined on input line 149.
 
-<imagens/om2.png, id=236, 1371.1225pt x 223.83624pt>
+<imagens/om2.png, id=243, 1371.1225pt x 223.83624pt>
 File: imagens/om2.png Graphic file (type png)
 <use imagens/om2.png>
 Package pdftex.def Info: imagens/om2.png  used on input line 156.
@@ -1789,7 +1728,7 @@ LaTeX Warning: Reference `fig:om' on page 20 undefined on input line 160.
 
 LaTeX Warning: Reference `fig:rotacao' on page 20 undefined on input line 162.
 
-<imagens/rotacao.png, id=237, 1803.73875pt x 624.3325pt>
+<imagens/rotacao.png, id=244, 1803.73875pt x 624.3325pt>
 File: imagens/rotacao.png Graphic file (type png)
 <use imagens/rotacao.png>
 Package pdftex.def Info: imagens/rotacao.png  used on input line 169.
@@ -1806,7 +1745,7 @@ Overfull \hbox (12.47372pt too wide) in paragraph at lines 173--174
 
 LaTeX Warning: Reference `fig:ch' on page 21 undefined on input line 175.
 
-<imagens/Cyclohexane-chair-colour-coded-3D-balls.png, id=246, 1104.125pt x 772.8875pt>
+<imagens/Cyclohexane-chair-colour-coded-3D-balls.png, id=253, 1104.125pt x 772.8875pt>
 File: imagens/Cyclohexane-chair-colour-coded-3D-balls.png Graphic file (type png)
 <use imagens/Cyclohexane-chair-colour-coded-3D-balls.png>
 Package pdftex.def Info: imagens/Cyclohexane-chair-colour-coded-3D-balls.png  used on input line 182.
@@ -1815,7 +1754,7 @@ Package pdftex.def Info: imagens/Cyclohexane-chair-colour-coded-3D-balls.png  us
 
 LaTeX Warning: Reference `fig:ch2' on page 22 undefined on input line 188.
 
-<imagens/analise_conformacional_ch_2.png, id=257, 772.8875pt x 564.1075pt>
+<imagens/analise_conformacional_ch_2.png, id=264, 772.8875pt x 564.1075pt>
 File: imagens/analise_conformacional_ch_2.png Graphic file (type png)
 <use imagens/analise_conformacional_ch_2.png>
 Package pdftex.def Info: imagens/analise_conformacional_ch_2.png  used on input line 195.
@@ -1823,7 +1762,7 @@ Package pdftex.def Info: imagens/analise_conformacional_ch_2.png  used on input 
 
 LaTeX Warning: Reference `fig:ch' on page 22 undefined on input line 199.
 
-<imagens/chair-confirmation-analogue-768x326.png, id=258, 578.16pt x 245.41687pt>
+<imagens/chair-confirmation-analogue-768x326.png, id=265, 578.16pt x 245.41687pt>
 File: imagens/chair-confirmation-analogue-768x326.png Graphic file (type png)
 <use imagens/chair-confirmation-analogue-768x326.png>
 Package pdftex.def Info: imagens/chair-confirmation-analogue-768x326.png  used on input line 208.
@@ -1847,7 +1786,7 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 LaTeX Warning: Reference `fig:hibridacao_traduzida' on page 23 undefined on input line 215.
 
-<imagens/sp2.png, id=266, 401.5pt x 512.91624pt>
+<imagens/sp2.png, id=273, 401.5pt x 512.91624pt>
 File: imagens/sp2.png Graphic file (type png)
 <use imagens/sp2.png>
 Package pdftex.def Info: imagens/sp2.png  used on input line 222.
@@ -1858,7 +1797,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: Reference `fig:vistas_sp2' on page 23 undefined on input line 234.
 
-<imagens/hibrido_sp2.png, id=267, 484.81125pt x 241.90375pt>
+<imagens/hibrido_sp2.png, id=274, 484.81125pt x 241.90375pt>
 File: imagens/hibrido_sp2.png Graphic file (type png)
 <use imagens/hibrido_sp2.png>
 Package pdftex.def Info: imagens/hibrido_sp2.png  used on input line 241.
@@ -1870,7 +1809,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: Reference `fig:sobre_lateral' on page 23 undefined on input line 245.
 
 [23 <./imagens/chair-confirmation-analogue-768x326.png>]
-<imagens/sobre_lateral.png, id=275, 626.34pt x 576.1525pt>
+<imagens/sobre_lateral.png, id=282, 626.34pt x 576.1525pt>
 File: imagens/sobre_lateral.png Graphic file (type png)
 <use imagens/sobre_lateral.png>
 Package pdftex.def Info: imagens/sobre_lateral.png  used on input line 252.
@@ -1888,7 +1827,7 @@ LaTeX Warning: Reference `fig:sobre_lateral' on page 24 undefined on input line 
 
 LaTeX Warning: Reference `fig:tripla' on page 24 undefined on input line 262.
 
-<imagens/tripla.png, id=276, 1040.88875pt x 301.125pt>
+<imagens/tripla.png, id=283, 1040.88875pt x 301.125pt>
 File: imagens/tripla.png Graphic file (type png)
 <use imagens/tripla.png>
 Package pdftex.def Info: imagens/tripla.png  used on input line 269.
@@ -1926,21 +1865,11 @@ LaTeX Warning: Reference `padroes' on page 28 undefined on input line 41.
 
 LaTeX Warning: Reference `fig:carros' on page 28 undefined on input line 49.
 
-
-LaTeX Warning: File `imagens/19035-NRYBNX.jpg' not found on input line 55.
-
-
-./funcoes_organicas.tex:55: Package pdftex.def Error: File `imagens/19035-NRYBNX.jpg' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.55 ...h=0.5\linewidth]{imagens/19035-NRYBNX.jpg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/19035-NRYBNX.jpg, id=313, 803.1606pt x 803.1606pt>
+File: imagens/19035-NRYBNX.jpg Graphic file (type jpg)
+<use imagens/19035-NRYBNX.jpg>
+Package pdftex.def Info: imagens/19035-NRYBNX.jpg  used on input line 55.
+(pdftex.def)             Requested size: 241.84843pt x 241.84467pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1950,21 +1879,11 @@ LaTeX Warning: Reference `fig:carros' on page 28 undefined on input line 60.
 
 LaTeX Warning: Reference `fig:vanco' on page 28 undefined on input line 74.
 
-
-LaTeX Warning: File `imagens/557px-Vancomycin.svg' not found on input line 80.
-
-
-./funcoes_organicas.tex:80: LaTeX Error: Unknown graphics extension: .svg.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.80 ...5\linewidth]{imagens/557px-Vancomycin.svg}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/557px-Vancomycin.svg.png, id=314, 559.08875pt x 538.01pt>
+File: imagens/557px-Vancomycin.svg.png Graphic file (type png)
+<use imagens/557px-Vancomycin.svg.png>
+Package pdftex.def Info: imagens/557px-Vancomycin.svg.png  used on input line 80.
+(pdftex.def)             Requested size: 411.14528pt x 395.65836pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -1975,77 +1894,50 @@ LaTeX Warning: Reference `fig:carros' on page 28 undefined on input line 85.
 
 LaTeX Warning: Reference `fig:funcoes2' on page 29 undefined on input line 101.
 
-
-LaTeX Warning: File `imagens/funcoes.png' not found on input line 107.
-
-
-./funcoes_organicas.tex:107: Package pdftex.def Error: File `imagens/funcoes.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.107 ...s[width=1\linewidth]{imagens/funcoes.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/funcoes.png, id=323, 1045.9075pt x 440.64626pt>
+File: imagens/funcoes.png Graphic file (type png)
+<use imagens/funcoes.png>
+Package pdftex.def Info: imagens/funcoes.png  used on input line 107.
+(pdftex.def)             Requested size: 483.69687pt x 203.78897pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [29] [30]
+) [29 <./imagens/19035-NRYBNX.jpg>] [30 <./imagens/557px-Vancomycin.svg.png>] [31 <./imagens/funcoes.png>]
 \openout2 = `hidrocarbonetos.aux'.
 
- (./hidrocarbonetos.tex
-Cap\'{\i }tulo 5.
-
-LaTeX Warning: Reference `fig:ocatene' on page 31 undefined on input line 2.
-
-
-LaTeX Warning: File `imagens/Octane_3D_ball.png' not found on input line 6.
-
-
-./hidrocarbonetos.tex:6: Package pdftex.def Error: File `imagens/Octane_3D_ball.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.6 ...cs[scale=0.175]{imagens/Octane_3D_ball.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:ocatene' on page 31 undefined on input line 9.
-
-
-LaTeX Warning: Reference `fig:ocatene' on page 31 undefined on input line 11.
-
-
-LaTeX Warning: Reference `fig:hexene' on page 31 undefined on input line 11.
-
-
-LaTeX Warning: File `imagens/1-Hexene-3D-balls.png' not found on input line 15.
-
-
-./hidrocarbonetos.tex:15: Package pdftex.def Error: File `imagens/1-Hexene-3D-balls.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.15 ...cale=0.225]{imagens/1-Hexene-3D-balls.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[31
+ (./hidrocarbonetos.tex [32
 
 
 
 
 ]
+Cap\'{\i }tulo 5.
+
+LaTeX Warning: Reference `fig:ocatene' on page 33 undefined on input line 2.
+
+<imagens/Octane_3D_ball.png, id=348, 2134.97626pt x 752.8125pt>
+File: imagens/Octane_3D_ball.png Graphic file (type png)
+<use imagens/Octane_3D_ball.png>
+Package pdftex.def Info: imagens/Octane_3D_ball.png  used on input line 6.
+(pdftex.def)             Requested size: 373.62645pt x 131.74416pt.
+
+LaTeX Warning: Reference `fig:ocatene' on page 33 undefined on input line 9.
+
+
+LaTeX Warning: Reference `fig:ocatene' on page 33 undefined on input line 11.
+
+
+LaTeX Warning: Reference `fig:hexene' on page 33 undefined on input line 11.
+
+<imagens/1-Hexene-3D-balls.png, id=349, 1673.50218pt x 752.8125pt>
+File: imagens/1-Hexene-3D-balls.png Graphic file (type png)
+<use imagens/1-Hexene-3D-balls.png>
+Package pdftex.def Info: imagens/1-Hexene-3D-balls.png  used on input line 15.
+(pdftex.def)             Requested size: 376.54729pt x 169.38698pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33 <./imagens/Octane_3D_ball.png>]
 Overfull \hbox (14.47649pt too wide) in paragraph at lines 22--23
 \OT1/FiraSans-OsF/light/n/12 forma[][]ao desse re-curso na-tu-ral. Ela pos-tula que o petr[]oleo se ori-gina a par-tir da decomposi[][]ao
  []
@@ -2055,224 +1947,133 @@ Overfull \hbox (8.1286pt too wide) in paragraph at lines 32--33
 []\OT1/FiraSans-OsF/light/n/12 4. Migra[][]ao e Ar-ma-ze-na-mento: Os hi-dro-car-bo-ne-tos re-sul-tan-tes do pro-cesso de diag[]enese
  []
 
-[32]
-
-LaTeX Warning: File `imagens/Octane_3D_ball.png' not found on input line 53.
-
-
-./hidrocarbonetos.tex:53: Package pdftex.def Error: File `imagens/Octane_3D_ball.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.53 ...cs[scale=0.15]{imagens/Octane_3D_ball.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[33]
-
-LaTeX Warning: File `imagens/Neopentane-3D-balls.png' not found on input line 70.
+[34 <./imagens/1-Hexene-3D-balls.png>]
+File: imagens/Octane_3D_ball.png Graphic file (type png)
+<use imagens/Octane_3D_ball.png>
+Package pdftex.def Info: imagens/Octane_3D_ball.png  used on input line 53.
+(pdftex.def)             Requested size: 320.23262pt x 112.91699pt.
 
 
-./hidrocarbonetos.tex:70: Package pdftex.def Error: File `imagens/Neopentane-3D-balls.png' not found: using draft setting.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.70 ...le=0.125]{imagens/Neopentane-3D-balls.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `imagens/2560px-Chair_conformation_of_cyclohexane.svg.png' not found on input line 79.
-
-
-./hidrocarbonetos.tex:79: Package pdftex.def Error: File `imagens/2560px-Chair_conformation_of_cyclohexane.svg.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ...Chair_conformation_of_cyclohexane.svg.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+[35]
+<imagens/Neopentane-3D-balls.png, id=370, 1104.125pt x 1098.1025pt>
+File: imagens/Neopentane-3D-balls.png Graphic file (type png)
+<use imagens/Neopentane-3D-balls.png>
+Package pdftex.def Info: imagens/Neopentane-3D-balls.png  used on input line 70.
+(pdftex.def)             Requested size: 138.01529pt x 137.26247pt.
+<imagens/2560px-Chair_conformation_of_cyclohexane.svg.png, id=371, 2569.6pt x 1079.03125pt>
+File: imagens/2560px-Chair_conformation_of_cyclohexane.svg.png Graphic file (type png)
+<use imagens/2560px-Chair_conformation_of_cyclohexane.svg.png>
+Package pdftex.def Info: imagens/2560px-Chair_conformation_of_cyclohexane.svg.png  used on input line 79.
+(pdftex.def)             Requested size: 256.97505pt x 107.90944pt.
 
 
-LaTeX Warning: Reference `fig:cicloexano' on page 34 undefined on input line 82.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[34]
+
+LaTeX Warning: Reference `fig:cicloexano' on page 36 undefined on input line 82.
+
+[36 <./imagens/Neopentane-3D-balls.png>] [37 <./imagens/2560px-Chair_conformation_of_cyclohexane.svg.png>]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/b/n' in size <14.4> not available
 (Font)              Font shape `OT1/FiraSans-OsF/bold/n' tried instead on input line 102.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/bold/n' will be
 (Font)              scaled to size 14.4pt on input line 102.
 
 
-LaTeX Warning: Reference `pf' on page 35 undefined on input line 104.
+LaTeX Warning: Reference `pf' on page 38 undefined on input line 104.
 
 
-LaTeX Warning: Reference `fig:pentano' on page 35 undefined on input line 128.
+LaTeX Warning: Reference `fig:pentano' on page 38 undefined on input line 128.
 
+<imagens/pentano_22dimetil.png, id=387, 730.73pt x 290.08376pt>
+File: imagens/pentano_22dimetil.png Graphic file (type png)
+<use imagens/pentano_22dimetil.png>
+Package pdftex.def Info: imagens/pentano_22dimetil.png  used on input line 134.
+(pdftex.def)             Requested size: 483.69687pt x 192.018pt.
 
-LaTeX Warning: File `imagens/pentano_22dimetil.png' not found on input line 134.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-./hidrocarbonetos.tex:134: Package pdftex.def Error: File `imagens/pentano_22dimetil.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.134 ...linewidth]{imagens/pentano_22dimetil.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[35] [36]
+ [38]
 Overfull \hbox (8.14175pt too wide) in paragraph at lines 153--154
 \OT1/FiraSans-OsF/light/n/12 mol[]eculas in-te-ri-o-res s[]ao atra[]^^Pdas por to-das as mol[]eculas ao seu re-dor, en-quanto as mol[]eculas
  []
 
+[39 <./imagens/pentano_22dimetil.png>]
 
-LaTeX Warning: Reference `fig:ts' on page 37 undefined on input line 155.
+LaTeX Warning: Reference `fig:ts' on page 40 undefined on input line 155.
 
-<imagens/ts.png, id=369, 2027.575pt x 2054.67625pt>
+<imagens/ts.png, id=404, 2027.575pt x 2054.67625pt>
 File: imagens/ts.png Graphic file (type png)
 <use imagens/ts.png>
 Package pdftex.def Info: imagens/ts.png  used on input line 161.
 (pdftex.def)             Requested size: 169.29684pt x 171.55702pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [37]
 Overfull \hbox (2.26065pt too wide) in paragraph at lines 171--172
 \OT1/FiraSans-OsF/light/n/12 org[]anicas, a quan-ti-dade de re-gras e orienta[][]oes su-ge-ri-das pela IU-PAC []e re-la-ti-va-mente grande
  []
 
+[40 <./imagens/ts.png>]
 
-LaTeX Warning: Reference `fig:hp' on page 38 undefined on input line 177.
+LaTeX Warning: Reference `fig:hp' on page 41 undefined on input line 177.
 
+<imagens/hidretos_pai.png, id=414, 1083.04625pt x 464.73625pt>
+File: imagens/hidretos_pai.png Graphic file (type png)
+<use imagens/hidretos_pai.png>
+Package pdftex.def Info: imagens/hidretos_pai.png  used on input line 183.
+(pdftex.def)             Requested size: 483.69687pt x 207.5551pt.
 
-LaTeX Warning: File `imagens/hidretos_pai.png' not found on input line 183.
-
-
-./hidrocarbonetos.tex:183: Package pdftex.def Error: File `imagens/hidretos_pai.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.183 ...th=1\linewidth]{imagens/hidretos_pai.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[38 <./imagens/ts.png>]
-
-LaTeX Warning: Reference `senioridade' on page 39 undefined on input line 187.
+LaTeX Warning: Reference `senioridade' on page 41 undefined on input line 187.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 1675) has occurred while \output is active []
 
- [39]
+ [41 <./imagens/hidretos_pai.png>]
 
-LaTeX Warning: Reference `fig:46' on page 40 undefined on input line 229.
+LaTeX Warning: Reference `fig:46' on page 42 undefined on input line 229.
 
+<imagens/46dicloro.png, id=423, 635.37375pt x 325.215pt>
+File: imagens/46dicloro.png Graphic file (type png)
+<use imagens/46dicloro.png>
+Package pdftex.def Info: imagens/46dicloro.png  used on input line 235.
+(pdftex.def)             Requested size: 290.22107pt x 148.55365pt.
+[42 <./imagens/46dicloro.png>]
 
-LaTeX Warning: File `imagens/46dicloro.png' not found on input line 235.
-
-
-./hidrocarbonetos.tex:235: Package pdftex.def Error: File `imagens/46dicloro.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.235 ...dth=0.6\linewidth]{imagens/46dicloro.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: Reference `senioridade' on page 43 undefined on input line 252.
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [40]
-
-LaTeX Warning: Reference `senioridade' on page 41 undefined on input line 252.
+LaTeX Warning: Reference `fig:46' on page 43 undefined on input line 252.
 
 
-LaTeX Warning: Reference `fig:46' on page 41 undefined on input line 252.
+LaTeX Warning: Reference `fig:octadieno' on page 43 undefined on input line 254.
+
+<imagens/octadieno.png, id=432, 404.51125pt x 260.975pt>
+File: imagens/octadieno.png Graphic file (type png)
+<use imagens/octadieno.png>
+Package pdftex.def Info: imagens/octadieno.png  used on input line 260.
+(pdftex.def)             Requested size: 290.22107pt x 187.24081pt.
+
+LaTeX Warning: Reference `fig:etenil' on page 43 undefined on input line 266.
+
+[43 <./imagens/octadieno.png>]
+<imagens/etenil.png, id=446, 566.115pt x 212.795pt>
+File: imagens/etenil.png Graphic file (type png)
+<use imagens/etenil.png>
+Package pdftex.def Info: imagens/etenil.png  used on input line 272.
+(pdftex.def)             Requested size: 290.22107pt x 109.09222pt.
 
 
-LaTeX Warning: Reference `fig:octadieno' on page 41 undefined on input line 254.
+LaTeX Warning: Reference `fig:etenil' on page 44 undefined on input line 276.
 
-
-LaTeX Warning: File `imagens/octadieno.png' not found on input line 260.
-
-
-./hidrocarbonetos.tex:260: Package pdftex.def Error: File `imagens/octadieno.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.260 ...dth=0.6\linewidth]{imagens/octadieno.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[41]
-
-LaTeX Warning: Reference `fig:etenil' on page 42 undefined on input line 266.
-
-
-LaTeX Warning: File `imagens/etenil.png' not found on input line 272.
-
-
-./hidrocarbonetos.tex:272: Package pdftex.def Error: File `imagens/etenil.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.272 ...[width=0.6\linewidth]{imagens/etenil.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [42]
-
-LaTeX Warning: Reference `fig:etenil' on page 43 undefined on input line 276.
-
-
-LaTeX Warning: File `imagens/nomeetenil.png' not found on input line 282.
-
-
-./hidrocarbonetos.tex:282: Package pdftex.def Error: File `imagens/nomeetenil.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.282 ...th=0.6\linewidth]{imagens/nomeetenil.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-)
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [43] [44]
+<imagens/nomeetenil.png, id=447, 573.14125pt x 327.2225pt>
+File: imagens/nomeetenil.png Graphic file (type png)
+<use imagens/nomeetenil.png>
+Package pdftex.def Info: imagens/nomeetenil.png  used on input line 282.
+(pdftex.def)             Requested size: 290.22107pt x 165.69792pt.
+) [44 <./imagens/etenil.png> <./imagens/nomeetenil.png>]
 \openout2 = `hidroxil.aux'.
 
  (./hidroxil.tex
@@ -2289,7 +2090,7 @@ LaTeX Warning: Reference `mdf@pagelabel-5' on page 45 undefined on input line 4.
 
 LaTeX Warning: Reference `fig:af' on page 45 undefined on input line 5.
 
-<imagens/af.png, id=432, 763.85374pt x 389.455pt>
+<imagens/af.png, id=464, 763.85374pt x 389.455pt>
 File: imagens/af.png Graphic file (type png)
 <use imagens/af.png>
 Package pdftex.def Info: imagens/af.png  used on input line 11.
@@ -2306,21 +2107,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: Reference `fig:ligacaoh' on page 46 undefined on input line 23.
 
-
-LaTeX Warning: File `imagens/ligacaoh.png' not found on input line 29.
-
-
-./hidroxil.tex:29: Package pdftex.def Error: File `imagens/ligacaoh.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.29 ...idth=0.65\linewidth]{imagens/ligacaoh.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/ligacaoh.png, id=481, 543.02875pt x 261.97874pt>
+File: imagens/ligacaoh.png Graphic file (type png)
+<use imagens/ligacaoh.png>
+Package pdftex.def Info: imagens/ligacaoh.png  used on input line 29.
+(pdftex.def)             Requested size: 314.40001pt x 151.68394pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -2328,51 +2119,31 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: Reference `fig:ionizacao' on page 47 undefined on input line 41.
 
-<imagens/ionizacao.png, id=455, 879.285pt x 161.60374pt>
+<imagens/ionizacao.png, id=488, 879.285pt x 161.60374pt>
 File: imagens/ionizacao.png Graphic file (type png)
 <use imagens/ionizacao.png>
 Package pdftex.def Info: imagens/ionizacao.png  used on input line 48.
 (pdftex.def)             Requested size: 435.32422pt x 80.00766pt.
-[47 <./imagens/ionizacao.png>]
 
-LaTeX Warning: Reference `eq:ionizacao' on page 48 undefined on input line 63.
-
-
-LaTeX Warning: Reference `fig:subfenol' on page 48 undefined on input line 65.
+LaTeX Warning: Reference `eq:ionizacao' on page 47 undefined on input line 63.
 
 
-LaTeX Warning: Reference `fig:subpropanol' on page 48 undefined on input line 65.
+LaTeX Warning: Reference `fig:subfenol' on page 47 undefined on input line 65.
 
 
-LaTeX Warning: File `imagens/fenol.png' not found on input line 77.
+LaTeX Warning: Reference `fig:subpropanol' on page 47 undefined on input line 65.
 
-
-./hidroxil.tex:77: Package pdftex.def Error: File `imagens/fenol.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.77 ...degraphics[width=90mm]{imagens/fenol.png}}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: File `imagens/propanol.png' not found on input line 79.
-
-
-./hidroxil.tex:79: Package pdftex.def Error: File `imagens/propanol.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.79 ...raphics[width=90mm]{imagens/propanol.png}}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+[47 <./imagens/ligacaoh.png> <./imagens/ionizacao.png>]
+<imagens/fenol.png, id=502, 1358.07375pt x 783.92876pt>
+File: imagens/fenol.png Graphic file (type png)
+<use imagens/fenol.png>
+Package pdftex.def Info: imagens/fenol.png  used on input line 77.
+(pdftex.def)             Requested size: 256.0748pt x 147.81165pt.
+<imagens/propanol.png, id=503, 1358.07375pt x 783.92876pt>
+File: imagens/propanol.png Graphic file (type png)
+<use imagens/propanol.png>
+Package pdftex.def Info: imagens/propanol.png  used on input line 79.
+(pdftex.def)             Requested size: 256.0748pt x 147.81165pt.
 
 Overfull \hbox (30.68472pt too wide) in paragraph at lines 77--81
 [][]  [][]
@@ -2384,23 +2155,20 @@ LaTeX Warning: Reference `fig:ionizacao' on page 48 undefined on input line 83.
 
 LaTeX Warning: Reference `fig:subgraficos' on page 48 undefined on input line 83.
 
-[48]
 
-LaTeX Warning: Reference `fig:fenolfenolato' on page 49 undefined on input line 85.
+LaTeX Warning: Reference `fig:fenolfenolato' on page 48 undefined on input line 85.
 
-<imagens/fenolato.png, id=476, 1272.755pt x 221.82875pt>
+<imagens/fenolato.png, id=504, 1272.755pt x 221.82875pt>
 File: imagens/fenolato.png Graphic file (type png)
 <use imagens/fenolato.png>
 Package pdftex.def Info: imagens/fenolato.png  used on input line 92.
 (pdftex.def)             Requested size: 483.69687pt x 84.30255pt.
 
-LaTeX Warning: Reference `fig:fenolfenolato' on page 49 undefined on input line 96.
+LaTeX Warning: Reference `fig:fenolfenolato' on page 48 undefined on input line 96.
 
+[48 <./imagens/fenol.png> <./imagens/propanol.png> <./imagens/fenolato.png>]
 
 LaTeX Warning: Reference `solubilidade' on page 49 undefined on input line 102.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 LaTeX Warning: Reference `comparada' on page 49 undefined on input line 125.
@@ -2411,10 +2179,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 LaTeX Warning: Reference `fig:ebulicao' on page 49 undefined on input line 145.
 
-[49 <./imagens/fenolato.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+Underfull \vbox (badness 2680) has occurred while \output is active []
+
+ [49]
+Underfull \vbox (badness 7944) has occurred while \output is active []
+
+ [50]
 
 LaTeX Warning: File `imagens/methanol-2d-0349e4-1024.png' not found on input line 190.
 
@@ -2431,12 +2205,8 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: Reference `fig:mpemetanol' on page 51 undefined on input line 194.
 
-
-LaTeX Warning: Reference `fig:mpemetanol' on page 50 undefined on input line 194.
-
-[50]
 
 LaTeX Warning: File `imagens/mpemetanol.png' not found on input line 200.
 
@@ -2453,17 +2223,13 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 LaTeX Warning: Reference `fig:hommel' on page 51 undefined on input line 206.
 
-
+[51]
 Underfull \hbox (badness 10000) in paragraph at lines 210--210
 \OT1/FiraSans-OsF/light/n/10 indy-five-hundred-sets-the-nascar-community-ablaze-after-fans-make-talladega-superspeedway-nights-
  []
 
-[51]
 
 LaTeX Warning: File `imagens/hommel.png' not found on input line 223.
 
@@ -2480,10 +2246,6 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \vbox (badness 3049) has occurred while \output is active []
-
- [52]
-
 LaTeX Warning: File `imagens/etanol2.jpeg' not found on input line 236.
 
 
@@ -2499,12 +2261,19 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: Reference `fig:etanol2' on page 53 undefined on input line 240.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-[53]
 
-LaTeX Warning: Reference `fig:neutro' on page 54 undefined on input line 244.
+LaTeX Warning: Reference `fig:etanol2' on page 52 undefined on input line 240.
 
+[52]
+
+LaTeX Warning: Reference `fig:neutro' on page 53 undefined on input line 244.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
 
 LaTeX Warning: File `imagens/ciclo-neutro.png' not found on input line 261.
 
@@ -2521,20 +2290,15 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
 LaTeX Warning: Reference `fig:fenolicos' on page 54 undefined on input line 266.
 
-<imagens/acidosfenolicos.png, id=529, 860.21375pt x 373.395pt>
+[54]
+<imagens/acidosfenolicos.png, id=573, 860.21375pt x 373.395pt>
 File: imagens/acidosfenolicos.png Graphic file (type png)
 <use imagens/acidosfenolicos.png>
 Package pdftex.def Info: imagens/acidosfenolicos.png  used on input line 280.
 (pdftex.def)             Requested size: 362.77264pt x 157.46864pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [54] [55 <./imagens/acidosfenolicos.png>]
+) [55 <./imagens/acidosfenolicos.png>]
 \openout2 = `aldeidos_cetonas.aux'.
 
  (./aldeidos_cetonas.tex [56
@@ -2553,7 +2317,7 @@ Package mdframed Info: mdframed works in twoside mode on input line 2.
 
 LaTeX Warning: Reference `mdf@pagelabel-6' on page 57 undefined on input line 4.
 
-<imagens/cistransretinal.png, id=554, 373.23pt x 346.5pt>
+<imagens/cistransretinal.png, id=593, 373.23pt x 346.5pt>
 File: imagens/cistransretinal.png Graphic file (type png)
 <use imagens/cistransretinal.png>
 Package pdftex.def Info: imagens/cistransretinal.png  used on input line 11.
@@ -2567,7 +2331,7 @@ LaTeX Warning: Reference `fig:cistransretinal' on page 57 undefined on input lin
 
 LaTeX Warning: Reference `fig:cistrans' on page 57 undefined on input line 18.
 
-<imagens/cistrans.png, id=555, 881.2925pt x 290.08376pt>
+<imagens/cistrans.png, id=594, 881.2925pt x 290.08376pt>
 File: imagens/cistrans.png Graphic file (type png)
 <use imagens/cistrans.png>
 Package pdftex.def Info: imagens/cistrans.png  used on input line 28.
@@ -2576,20 +2340,11 @@ Package pdftex.def Info: imagens/cistrans.png  used on input line 28.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [57]
-
-LaTeX Warning: File `imagens/formaldeido2.png' not found on input line 41.
-
-
-./aldeidos_cetonas.tex:41: Package pdftex.def Error: File `imagens/formaldeido2.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.41 ...=0.35\linewidth]{imagens/formaldeido2.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<imagens/formaldeido2.png, id=604, 437.2335pt x 254.75175pt>
+File: imagens/formaldeido2.png Graphic file (type png)
+<use imagens/formaldeido2.png>
+Package pdftex.def Info: imagens/formaldeido2.png  used on input line 41.
+(pdftex.def)             Requested size: 169.29684pt x 98.64142pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2604,20 +2359,11 @@ LaTeX Warning: Reference `fig:etanal' on page 58 undefined on input line 51.
 Underfull \vbox (badness 3281) has occurred while \output is active []
 
  [58 <./imagens/cistransretinal.png>]
-
-LaTeX Warning: File `imagens/etanal.png' not found on input line 62.
-
-
-./aldeidos_cetonas.tex:62: Package pdftex.def Error: File `imagens/etanal.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.62 ...s[width=0.5\linewidth]{imagens/etanal.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<imagens/etanal.png, id=611, 825.0825pt x 696.6025pt>
+File: imagens/etanal.png Graphic file (type png)
+<use imagens/etanal.png>
+Package pdftex.def Info: imagens/etanal.png  used on input line 62.
+(pdftex.def)             Requested size: 241.84843pt x 204.18855pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -2636,193 +2382,105 @@ Overfull \hbox (14.08667pt too wide) in paragraph at lines 70--71
 []\OT1/FiraSans-OsF/light/n/12 Na aus[]encia do h[]^^Pbrido de res-son[]ancia (uma vez que tais es-tru-tu-ras ocor-rem em condi[][]oes
  []
 
-[59 <./imagens/cistrans.png>]
-
-LaTeX Warning: File `imagens/hibridos.png' not found on input line 97.
-
-
-./aldeidos_cetonas.tex:97: Package pdftex.def Error: File `imagens/hibridos.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.97 ...idth=0.85\linewidth]{imagens/hibridos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+[59 <./imagens/cistrans.png> <./imagens/formaldeido2.png>]
+<imagens/hibridos.png, id=625, 652.4375pt x 194.7275pt>
+File: imagens/hibridos.png Graphic file (type png)
+<use imagens/hibridos.png>
+Package pdftex.def Info: imagens/hibridos.png  used on input line 97.
+(pdftex.def)             Requested size: 411.14528pt x 122.71461pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[60]
 
-LaTeX Warning: Reference `fig:polaridade' on page 61 undefined on input line 104.
+LaTeX Warning: Reference `fig:polaridade' on page 60 undefined on input line 104.
 
+<imagens/polaridadeetanal.png, id=627, 754.82pt x 507.8975pt>
+File: imagens/polaridadeetanal.png Graphic file (type png)
+<use imagens/polaridadeetanal.png>
+Package pdftex.def Info: imagens/polaridadeetanal.png  used on input line 110.
+(pdftex.def)             Requested size: 362.77264pt x 244.09802pt.
 
-./aldeidos_cetonas.tex:110: LaTeX Error: File `imagens/polaridadeetanal' not found.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.110 ...0.75\linewidth]{imagens/polaridadeetanal}
-                                                  
-I could not locate the file with any of these extensions:
-.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Reference `fig:polaridade' on page 61 undefined on input line 115.
+LaTeX Warning: Reference `fig:polaridade' on page 60 undefined on input line 115.
 
-[61]
+[60 <./imagens/etanal.png>]
 
-LaTeX Warning: Reference `fig:etanalagua' on page 62 undefined on input line 117.
+LaTeX Warning: Reference `fig:etanalagua' on page 61 undefined on input line 117.
 
-
-LaTeX Warning: File `imagens/etanal_agua.png' not found on input line 126.
-
-
-./aldeidos_cetonas.tex:126: Package pdftex.def Error: File `imagens/etanal_agua.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.126 ...=0.85\linewidth]{imagens/etanal_agua.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
+<imagens/etanal_agua.png, id=638, 876.27374pt x 449.68pt>
+File: imagens/etanal_agua.png Graphic file (type png)
+<use imagens/etanal_agua.png>
+Package pdftex.def Info: imagens/etanal_agua.png  used on input line 126.
+(pdftex.def)             Requested size: 411.14528pt x 210.99281pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [62] [63]
-
-LaTeX Warning: File `imagens/butanal.png' not found on input line 150.
-
-
-./aldeidos_cetonas.tex:150: Package pdftex.def Error: File `imagens/butanal.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.150 ...idth=0.45\linewidth]{imagens/butanal.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+ [61 <./imagens/hibridos.png>] [62 <./imagens/polaridadeetanal.png> <./imagens/etanal_agua.png>]
+<imagens/butanal.png, id=655, 419.5675pt x 239.89626pt>
+File: imagens/butanal.png Graphic file (type png)
+<use imagens/butanal.png>
+Package pdftex.def Info: imagens/butanal.png  used on input line 150.
+(pdftex.def)             Requested size: 217.66211pt x 124.45026pt.
 
 
-LaTeX Warning: Reference `fig:butanal' on page 64 undefined on input line 155.
+LaTeX Warning: Reference `fig:butanal' on page 63 undefined on input line 155.
 
 
-LaTeX Warning: Reference `fig:aldeidosubst' on page 64 undefined on input line 157.
+LaTeX Warning: Reference `fig:aldeidosubst' on page 63 undefined on input line 157.
+
+<imagens/aldeidosubst.png, id=656, 336.25626pt x 215.80624pt>
+File: imagens/aldeidosubst.png Graphic file (type png)
+<use imagens/aldeidosubst.png>
+Package pdftex.def Info: imagens/aldeidosubst.png  used on input line 164.
+(pdftex.def)             Requested size: 217.66211pt x 139.69283pt.
+
+Underfull \vbox (badness 6808) has occurred while \output is active []
+
+ [63 <./imagens/butanal.png>]
+
+LaTeX Warning: Reference `fig:aldeidosubst' on page 64 undefined on input line 169.
 
 
-LaTeX Warning: File `imagens/aldeidosubst.png' not found on input line 164.
+LaTeX Warning: Reference `fig:naftaleno' on page 64 undefined on input line 171.
+
+<imagens/naftaleno.png, id=663, 286.06876pt x 202.7575pt>
+File: imagens/naftaleno.png Graphic file (type png)
+<use imagens/naftaleno.png>
+Package pdftex.def Info: imagens/naftaleno.png  used on input line 178.
+(pdftex.def)             Requested size: 120.92421pt x 85.70827pt.
+
+LaTeX Warning: Reference `fig:simetria' on page 64 undefined on input line 187.
+
+[64 <./imagens/aldeidosubst.png> <./imagens/naftaleno.png>]
+<imagens/simetria.png, id=672, 377.41pt x 369.38pt>
+File: imagens/simetria.png Graphic file (type png)
+<use imagens/simetria.png>
+Package pdftex.def Info: imagens/simetria.png  used on input line 194.
+(pdftex.def)             Requested size: 241.84843pt x 236.70111pt.
 
 
-./aldeidos_cetonas.tex:164: Package pdftex.def Error: File `imagens/aldeidosubst.png' not found: using draft setting.
+LaTeX Warning: Reference `fig:simetria2' on page 65 undefined on input line 199.
 
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.164 ...0.45\linewidth]{imagens/aldeidosubst.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
+<imagens/simetria3.png, id=674, 374.39874pt x 278.03876pt>
+File: imagens/simetria3.png Graphic file (type png)
+<use imagens/simetria3.png>
+Package pdftex.def Info: imagens/simetria3.png  used on input line 206.
+(pdftex.def)             Requested size: 169.29684pt x 125.72296pt.
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [64]
-
-LaTeX Warning: Reference `fig:aldeidosubst' on page 65 undefined on input line 169.
+LaTeX Warning: Reference `fig:simetria2' on page 65 undefined on input line 211.
 
 
-LaTeX Warning: Reference `fig:naftaleno' on page 65 undefined on input line 171.
+LaTeX Warning: Reference `fig:numerado' on page 65 undefined on input line 211.
 
-
-LaTeX Warning: File `imagens/naftaleno.png' not found on input line 178.
-
-
-./aldeidos_cetonas.tex:178: Package pdftex.def Error: File `imagens/naftaleno.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.178 ...th=0.25\linewidth]{imagens/naftaleno.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[65]
-
-LaTeX Warning: Reference `fig:simetria' on page 66 undefined on input line 187.
-
-
-LaTeX Warning: File `imagens/simetria.png' not found on input line 194.
-
-
-./aldeidos_cetonas.tex:194: Package pdftex.def Error: File `imagens/simetria.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.194 ...idth=0.5\linewidth]{imagens/simetria.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: Reference `fig:simetria2' on page 66 undefined on input line 199.
-
-
-LaTeX Warning: File `imagens/simetria3.png' not found on input line 206.
-
-
-./aldeidos_cetonas.tex:206: Package pdftex.def Error: File `imagens/simetria3.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.206 ...th=0.35\linewidth]{imagens/simetria3.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:simetria2' on page 66 undefined on input line 211.
-
-
-LaTeX Warning: Reference `fig:numerado' on page 66 undefined on input line 211.
-
-
-LaTeX Warning: File `imagens/numerado.png' not found on input line 218.
-
-
-./aldeidos_cetonas.tex:218: Package pdftex.def Error: File `imagens/numerado.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.218 ...dth=0.35\linewidth]{imagens/numerado.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
+[65 <./imagens/simetria.png> <./imagens/simetria3.png>]
+<imagens/numerado.png, id=685, 274.02374pt x 177.66376pt>
+File: imagens/numerado.png Graphic file (type png)
+<use imagens/numerado.png>
+Package pdftex.def Info: imagens/numerado.png  used on input line 218.
+(pdftex.def)             Requested size: 169.29684pt x 109.76543pt.
 
 
 LaTeX Warning: Reference `fig:naftaleno' on page 66 undefined on input line 225.
@@ -2830,44 +2488,20 @@ LaTeX Warning: Reference `fig:naftaleno' on page 66 undefined on input line 225.
 
 LaTeX Warning: Reference `fig:hidrogenacao' on page 66 undefined on input line 225.
 
-[66]
+<imagens/hidrogenacao.png, id=686, 1014.79124pt x 236.885pt>
+File: imagens/hidrogenacao.png Graphic file (type png)
+<use imagens/hidrogenacao.png>
+Package pdftex.def Info: imagens/hidrogenacao.png  used on input line 232.
+(pdftex.def)             Requested size: 483.69687pt x 112.9083pt.
 
-LaTeX Warning: File `imagens/hidrogenacao.png' not found on input line 232.
+LaTeX Warning: Reference `fig:conjunto' on page 66 undefined on input line 237.
 
-
-./aldeidos_cetonas.tex:232: Package pdftex.def Error: File `imagens/hidrogenacao.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.232 ...th=1\linewidth]{imagens/hidrogenacao.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-LaTeX Warning: Reference `fig:conjunto' on page 67 undefined on input line 237.
-
-
-LaTeX Warning: File `imagens/exemplosaldeidos.png' not found on input line 244.
-
-
-./aldeidos_cetonas.tex:244: Package pdftex.def Error: File `imagens/exemplosaldeidos.png' not found: using draft setting.
-
-See the pdftex.def package documentation for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.244 ...\linewidth]{imagens/exemplosaldeidos.png}
-                                                  
-Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-[67]
+<imagens/exemplosaldeidos.png, id=687, 849.1725pt x 619.31375pt>
+File: imagens/exemplosaldeidos.png Graphic file (type png)
+<use imagens/exemplosaldeidos.png>
+Package pdftex.def Info: imagens/exemplosaldeidos.png  used on input line 244.
+(pdftex.def)             Requested size: 314.40001pt x 229.2937pt.
+[66 <./imagens/numerado.png> <./imagens/hidrogenacao.png>]
 Overfull \hbox (14.9118pt too wide) in paragraph at lines 250--250
 [][]\OT1/FiraSans-OsF/bold/n/12 Subst[]ancia 
  []
@@ -2908,25 +2542,25 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 258--246
  []
 
 
-Underfull \vbox (badness 2941) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [68] [69] [70]
+ [67 <./imagens/exemplosaldeidos.png>] [68]
 runsystem(makeindex minitoc.idx)...executed safely (allowed).
 
- (./minitoc.ind) [71
+ (./minitoc.ind) [69
 
 
 
 
 
-] [72
+] [70
 
 ]
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/l/sc' in size <12> not available
 (Font)              Font shape `OT1/FiraSans-OsF/light/sc' tried instead on input line 253.
 LaTeX Font Info:    Font shape `OT1/FiraSans-OsF/light/sc' will be
 (Font)              scaled to size 12.0pt on input line 253.
- [73{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}]
+ [71{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/fira/fir_ogsljj.enc}]
 Overfull \hbox (0.23648pt too wide) in paragraph at lines 253--253
 \OT1/FiraSans-OsF/light/n/12 Em: \OT1/FiraSans-OsF/light/it/12 Bi-o-mo-le-cu-lar Si-mu-la-ti-ons: Methods and Pro-to-cols\OT1/FiraSans-OsF/light/n/12 . Ed. por Luca Mon-ti-celli e Emppu
  []
@@ -2941,7 +2575,7 @@ Overfull \hbox (9.55923pt too wide) in paragraph at lines 253--253
 \OT1/cmtt/m/n/12 php / dissertacoes -[] de -[] mestrado / 2015 / 14 -[] separacao -[] etanol -[] agua -[] por -[] destilacao -[]
  []
 
-[74]
+[72]
 Package minitoc Info: I0009
 (minitoc)             Listing minitoc auxiliary files. 
 (minitoc)             Creating the minitoc.maf file.
@@ -2968,7 +2602,7 @@ Package minitoc(hints) Warning: W0024
 (minitoc(hints))                Some hints have been written 
 (minitoc(hints))                in the minitoc.log file.
 
-[75] (./minitoc.aux (./ligacao_cc.aux) (./funcoes_organicas.aux) (./hidrocarbonetos.aux) (./hidroxil.aux) (./aldeidos_cetonas.aux))
+[73] (./minitoc.aux (./ligacao_cc.aux) (./funcoes_organicas.aux) (./hidrocarbonetos.aux) (./hidroxil.aux) (./aldeidos_cetonas.aux))
 
 LaTeX Warning: There were undefined references.
 
@@ -2993,18 +2627,18 @@ Package logreq Info: Writing requests to 'minitoc.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 52578 strings out of 476025
- 1191151 string characters out of 5790017
- 2013996 words of memory out of 5000000
- 71673 multiletter control sequences out of 15000+600000
+ 51736 strings out of 476025
+ 1162292 string characters out of 5790017
+ 2018997 words of memory out of 5000000
+ 70865 multiletter control sequences out of 15000+600000
  597247 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  127i,17n,142p,1166b,2073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on minitoc.pdf (83 pages, 3109314 bytes).
+Output written on minitoc.pdf (81 pages, 7222965 bytes).
 PDF statistics:
- 859 PDF objects out of 1000 (max. 8388607)
- 685 compressed objects within 7 object streams
- 262 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 915 PDF objects out of 1000 (max. 8388607)
+ 679 compressed objects within 7 object streams
+ 260 named destinations out of 1000 (max. 500000)
+ 318 words of extra memory for PDF output out of 10000 (max. 10000000)
 
