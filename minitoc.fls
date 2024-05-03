@@ -2217,6 +2217,17 @@ INPUT ./hidrocarbonetos.tex
 INPUT hidrocarbonetos.tex
 INPUT ./hidrocarbonetos.tex
 INPUT hidrocarbonetos.tex
+INPUT ./minitoc.mtc5
+INPUT minitoc.mtc5
+INPUT minitoc.mtc5
+OUTPUT minitoc.mtc
+INPUT ./minitoc.mtc
+INPUT minitoc.mtc
+INPUT minitoc.mtc
+OUTPUT minitoc.mtc
+INPUT ./minitoc.mtc5
+INPUT minitoc.mtc5
+INPUT minitoc.mtc5
 INPUT ./imagens/Octane_3D_ball.png
 INPUT ./imagens/Octane_3D_ball.png
 INPUT imagens/Octane_3D_ball.png
