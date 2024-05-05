@@ -1,18 +1,18 @@
 # Fdb version 4
-["biber minitoc"] 1714876909.93741 "minitoc.bcf" "minitoc.bbl" "minitoc" 1714935476.55156 0
+["biber minitoc"] 1714876909.93741 "minitoc.bcf" "minitoc.bbl" "minitoc" 1714936337.10153 0
   "livro.bib" 1714935430.95116 14411 01f65e1383838d2ffcb7de67056f2a07 ""
-  "minitoc.bcf" 1714935476.39912 109864 fea7f0cb271c0cdb5b626644f0167ae7 "pdflatex"
+  "minitoc.bcf" 1714936336.92788 109864 fea7f0cb271c0cdb5b626644f0167ae7 "pdflatex"
   (generated)
   "minitoc.bbl"
   "minitoc.blg"
   (rewritten before read)
-["makeindex minitoc.idx"] 1714876909.86501 "minitoc.idx" "minitoc.ind" "minitoc" 1714935476.54721 0
-  "minitoc.idx" 1714935476.25712 360 3bc8fa72d1c3d334210349d0f9b7be26 "pdflatex"
+["makeindex minitoc.idx"] 1714876909.86501 "minitoc.idx" "minitoc.ind" "minitoc" 1714936337.09708 0
+  "minitoc.idx" 1714936336.75188 360 3bc8fa72d1c3d334210349d0f9b7be26 "pdflatex"
   (generated)
   "minitoc.ilg"
   "minitoc.ind"
   (rewritten before read)
-["pdflatex"] 1714935470.87694 "/home/jhgb/Documents/GitHub/livro/livroqob/minitoc.tex" "minitoc.pdf" "minitoc" 1714935476.54728 2
+["pdflatex"] 1714936330.92395 "/home/jhgb/Documents/GitHub/livro/livroqob/minitoc.tex" "minitoc.pdf" "minitoc" 1714936337.09715 2
   "/home/jhgb/Documents/GitHub/livro/livroqob/minitoc.tex" 1714935430.98816 23163 dc0f71de537124417da90d8e3dd441d3 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fira/fir_337jzs.enc" 1713199481 2952 6101deaf2e29800c3f438cc30978a854 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/fira/fir_d67aat.enc" 1713199481 3385 21a7e8c8dac3c39de5acda2c56e7bd7e ""
@@ -505,13 +505,13 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1713199481 41588 b43d3e860a4f94167ee1e725ff526a72 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1714934979.32724 5312047 b07fcd2a9090df96fc745b92a3db793b ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1714934971 7113014 a2a1efbae573f343bedac6fc522f2e4e ""
-  "aldeidos_cetonas.aux" 1714935476.25712 10439 b57a657b89978d4e191096004be7a4d1 "pdflatex"
+  "aldeidos_cetonas.aux" 1714936336.75188 10439 b57a657b89978d4e191096004be7a4d1 "pdflatex"
   "aldeidos_cetonas.tex" 1714935430.87016 21249 5d37fefed6668958d844d383c2b6fdcf ""
-  "funcoes_organicas.aux" 1714935473.77113 6393 c34310eb97452df65208cf82841837c7 "pdflatex"
+  "funcoes_organicas.aux" 1714936334.14089 6393 c34310eb97452df65208cf82841837c7 "pdflatex"
   "funcoes_organicas.tex" 1714935430.87316 6888 d24d27907d724458fddb7f8244012466 ""
-  "hidrocarbonetos.aux" 1714935475.17413 10319 0ed5096dfd252a0275f2083e7c22ab2e "pdflatex"
+  "hidrocarbonetos.aux" 1714936335.58489 10319 0ed5096dfd252a0275f2083e7c22ab2e "pdflatex"
   "hidrocarbonetos.tex" 1714935430.87916 28161 76b18230acc9882fc503802f61a44dc6 ""
-  "hidroxil.aux" 1714935475.83212 11636 cbec95fdced148420e9e17655004f02e "pdflatex"
+  "hidroxil.aux" 1714936336.29689 11636 cbec95fdced148420e9e17655004f02e "pdflatex"
   "hidroxil.tex" 1714935430.88016 22191 0253d4b040b26e2bff861b7d63c51e18 ""
   "imagens/1-Hexene-3D-balls.png" 1714935430.88116 247270 03234694bebdd2729a307ebefece4803 ""
   "imagens/19035-NRYBNX.jpg" 1714935430.88216 230410 58af3ea276483c9702160571436db3f8 ""
@@ -580,15 +580,15 @@
   "imagens/tripla.png" 1714935430.94816 187958 f3da063e38f87426642c43230a57f991 ""
   "imagens/ts.png" 1714935430.94916 171989 e41e69b2008554e3aea686f338f6be66 ""
   "imagens/wohler.jpg" 1714935430.94916 37440 619013b3c177e1e23a5637c93254bc92 ""
-  "ligacao_cc.aux" 1714935473.64013 11175 1e9ebcadda52d01c4685538bcf610563 "pdflatex"
+  "ligacao_cc.aux" 1714936333.99889 11175 1e9ebcadda52d01c4685538bcf610563 "pdflatex"
   "ligacao_cc.tex" 1714935430.95116 27858 0441f213639f58d63209cf624c2fade8 ""
-  "minitoc.aux" 1714935476.39312 9013 3925acf74f51e272cb5862c4ce2bcc63 "pdflatex"
+  "minitoc.aux" 1714936336.92088 9013 3925acf74f51e272cb5862c4ce2bcc63 "pdflatex"
   "minitoc.bbl" 1714935430.95216 38910 87e6898ba5d6c5a4f9f6266db9150ef0 "biber minitoc"
-  "minitoc.ind" 1714935476.29512 495 aae4d0e3c983077e2d5a13940b2a0237 "makeindex minitoc.idx"
-  "minitoc.lof" 1714935476.40012 10509 3d33208f0f63281a3f23924761e71512 "pdflatex"
-  "minitoc.lot" 1714935476.40012 1664 8cbd5d90081b34afca31a5597da862ff "pdflatex"
-  "minitoc.mtc" 1714935475.83512 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "minitoc.mtc0" 1714935471.22113 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "minitoc.ind" 1714936336.80488 495 aae4d0e3c983077e2d5a13940b2a0237 "makeindex minitoc.idx"
+  "minitoc.lof" 1714936336.92788 10509 3d33208f0f63281a3f23924761e71512 "pdflatex"
+  "minitoc.lot" 1714936336.92788 1664 8cbd5d90081b34afca31a5597da862ff "pdflatex"
+  "minitoc.mtc" 1714936336.30188 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "minitoc.mtc0" 1714936331.36189 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "minitoc.mtc1" 1714935466.00113 641 d34ca9e9b00caa20f849aff6401f83fe ""
   "minitoc.mtc2" 1714935466.00113 319 1db933ace883237e5ac355a68da6cda2 ""
   "minitoc.mtc3" 1714935466.00113 639 0a881c8e134abd24f3b5f444ce438319 ""
@@ -596,9 +596,9 @@
   "minitoc.mtc5" 1714935466.00113 1619 8f54ae433461df3bf15a4a42d80cfc05 ""
   "minitoc.mtc6" 1714935466.00113 1291 ccc9ef73d1b18d7430ebe953ec44ed1f ""
   "minitoc.mtc7" 1714935466.00213 613 351562c02b963e44076e61a2aa3643e6 ""
-  "minitoc.out" 1714935476.39712 6933 a222eb563098ae6e8acf4d9971bc3fb2 "pdflatex"
+  "minitoc.out" 1714936336.92488 6933 a222eb563098ae6e8acf4d9971bc3fb2 "pdflatex"
   "minitoc.tex" 1714935430.98816 23163 dc0f71de537124417da90d8e3dd441d3 ""
-  "minitoc.toc" 1714935476.40012 3596 a48cf437b95208491c571f42fdd2d325 "pdflatex"
+  "minitoc.toc" 1714936336.92788 3596 a48cf437b95208491c571f42fdd2d325 "pdflatex"
   (generated)
   "aldeidos_cetonas.aux"
   "funcoes_organicas.aux"
